@@ -1,0 +1,286 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="/cgi-data/styles/registrar_mini.css" Type="text/css">
+<title>IAP/Spring
+2017 Course 11: Urban Studies and Planning</title>
+<meta http-equiv="expires" content="10 MAR 2017" >
+<meta name="DEPARTMENT" content="  11" >
+<script language="JavaScript">
+<!-- hide from non-JavaScript browsers 
+function PopUpHelp (pUrl) {
+var xPopUpHelpWindow=window.open(pUrl,"PopUpHelp",
+"titlebar=yes,resizable=yes,scrollbars=yes,menubar=yes,toolbar=no,width=750,height=750");
+xPopUpHelpWindow.focus();
+}
+ // end hide -->
+</script>
+<!-- Produced by the Curricular Information System Generic Publication program -->
+</head>
+<body><!-- REGISTRAR HEADER -->
+<div id="registrarheadercontainer">
+ <div id="registrarmininav">
+  <a href="http://web.mit.edu/registrar/index.html"><img src="/icns/RegLogo.gif"
+alt="Office of the Registrar Home" width="239" height="46" border="0" class="registrarlogo" /></a>
+  <form method='get' action='http://search.mit.edu/search'>
+    <a href="http://web.mit.edu/registrar/index.html">Registrar Home</a>  |  Registrar Search:
+    <input name="q" type="text" class="searchfield" size="17" />
+    <input name="btnG" type="image" class="submit" value="submit" src="/icns/RegGo.gif"
+alt="Search" align="middle" />
+    <input type='hidden' name='site' value='mit'/>
+    <input type='hidden' name='client' value='mit'/>
+    <input type='hidden' name='proxystylesheet' value='http://web.mit.edu/registrar/styles/google-registrar.xsl'/>
+    <input type='hidden' name='output' value='xml_no_dtd'/>
+    <input type='hidden' name='as_dt' value='i'/>
+    <input type='hidden' name='as_sitesearch' value='web.mit.edu/registrar' />
+  </form>
+  &nbsp;<br>&nbsp;
+    <a href="http://picker.mit.edu/" target="picker">MIT Course Picker</a> |  
+  <a href="http://planner.mit.edu/" target="planner">MIT Course Planner</a> <!--arc-->
+  &nbsp;&nbsp;&nbsp;&nbsp;
+ </div>
+</div>
+<div id="contentleft">
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+<tr><td align="center" valign="top"><b>
+<a href="index.cgi">Home</a>
+ | <a href="extsearch.cgi">Subject Search</a>
+ | <a href="help.html">Help</a>
+ | <a href="symbols.html">Symbols Help</a>
+ | <a href="help.html#prereg">Pre-Reg Help</a><!--arc-->
+ | <a href="http://web.mit.edu/registrar/www/schedules/exams.html">Final Exam Schedule</a><!--arc-->
+</b></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>
+<h1 align="center">Course 11: Urban Studies and Planning<br>IAP/Spring
+2017</h1><div id="contentmini"><b><a href="http://dusp.mit.edu/"><i>Course 11 Home</i></a>&nbsp; &nbsp; <a href="http://web.mit.edu/commreq/cim/course11.html"><i>CI-M Subjects for Undergraduate Majors</i></a>&nbsp; &nbsp; <a href="./search.cgi?search=11&when=J"><i>IAP only</i></a>&nbsp; &nbsp; <a href="https://sisapp.mit.edu/ose-rpt/subjectEvaluationSearch.htm?departmentId=++11&search=Search"><i>Evaluations</i></a> <a href="http://ist.mit.edu/certificates"><i>(Certificates Required)</i></a></b><hr width="90%" align="center"><table align="center"><tr><td valign=middle><img src="/icns/purple1.gif" width="20" height="20" alt="left arrow"></td><td valign=middle><b> | </b></td><td valign=middle align=center><b><a href="m11a.html">Undergraduate: 11.00-11.199 <br>plus UROP, ThU, ThT</a></b></td><td valign=middle><b> | </b></td><td valign=middle align=center><b>Graduate: 11.20-11.299</b></td><td valign=middle><b> | </b></td><td valign=middle align=center><b><a href="m11c.html">Graduate: 11.30-11.999 plus ThG</a></b></td><td valign=middle><b> | </b></td><td valign=middle><img src="/icns/purple2.gif" width="20" height="20" alt="right arrow"></td></tr></table></div>
+<hr width="90%" align="center">
+<table border=0 width="100%"><tr><td>
+<h2>Master's Core Subjects</h2>
+<a name="11.201"></a>
+<p><h3>11.201 Gateway: Planning Action
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)
+<br>Prereq: None
+<br>Units: 4-1-7
+<br><img alt="______" src="/icns/hr.gif">
+<br>Introduces the profession of urban and regional planning.  Emphasizes the key sensibilities necessary for effective planning practice as well as professional writing and oral communication skills.
+<br><I>J. Buckley</I><br>
+</p><!--end-->
+<a name="11.202"></a>
+<p><h3>11.202 Planning Economics
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">); partial term
+<br>Prereq: <a href="m11b.html#11.203">11.203</a>
+<br>Units: 2-0-2
+<br><img alt="______" src="/icns/hr.gif">
+<br>Introduces applications of microeconomic theory to planning problems including urban form and structure, government's role in urban settings and problems of housing finance.
+<br><I>A. Saiz</I><br>
+</p><!--end-->
+<a name="11.203"></a>
+<p><h3>11.203 Microeconomics
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">); partial term
+<br>Prereq: None
+<br>Units: 3-0-5
+<br><img alt="______" src="/icns/hr.gif">
+<br>Introduces basic economic analysis for planning students including the functioning of markets, the allocation of scarce resources among competing uses, profit maximizing behavior in different market structures.  Course illustrates theory with contemporary economic issues.
+<br><I>A. Saiz</I><br>
+</p><!--end-->
+<a name="11.205"></a>
+<p><h3>11.205 Introduction to Spatial Analysis
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">); partial term
+<br>Prereq: None
+<br>Units: 2-2-2
+<br>Credit cannot also be received for <A HREF="m11a.html#11.188">11.188</A>
+<br><b>Lecture:</b> <i>MW2.30-4 (ENDS MAR 24)</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=9">9-255</a>) <b>Lab:</b> <i>M4</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=W31">W31-301</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Practical introduction to spatial analysis and geographic information systems (GIS).  Examines how geography is represented digitally and how nonrandom distributions of phenomena as diverse as poverty and scenic resources can be better understood by examining their spatial characteristics. Limited enrollment; preference to first-year MCP students.
+<br>Fall: <I>S. Williams</I><br>Spring: <I>J. Ferreira</I><br>No textbook information available
+</p><!--end-->
+<a name="11.206"></a>
+<p><h3>11.206 Poverty and Economic Security
+<br>(New)
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Not offered academic year 2017-2018" title="Not offered academic year 2017-2018" src="/icns/nonext.gif"><img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)
+<br>(Subject meets with <A HREF="m11a.html#11.006">11.006</A>)
+<br>Prereq: None
+<br>Units: 3-0-9
+<br><img alt="______" src="/icns/hr.gif">
+<br>Explores the evolution of poverty and economic security in the US within a global context.  Examines the impacts of recent economic restructuring and globalization.  Reviews current debates about the fate of the middle class, sources of increasing inequality, and approaches to advancing economic opportunity and security. Students taking graduate version complete additional assignments.
+<br><I>A. Glasmeier</I><br>
+</p><!--end-->
+<a name="11.220"></a>
+<p><h3>11.220 Quantitative Reasoning and Statistical Methods for Planning I
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>Prereq: Permission of instructor
+<br>Units: 4-2-6
+<br><b>Lecture:</b> <i>MW11-12.30</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=9">9-354</a>) <b>Recitation:</b> <i>W EVE (5-6.30 PM)</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=5">5-233</a>) or <i>R11-12.30</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=56">56-180</a>) or <i>F10.30-12</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=9">9-451</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Develops logical, empirically based arguments using statistical techniques and analytic methods. Covers elementary statistics, probability, and other types of quantitative reasoning useful for description, estimation, comparison, and explanation. Emphasizes the use and limitations of analytical techniques in planning practice. Restricted to MCP students.
+<br><I>M. Arcaya</I><br>No textbook information available
+</p><!--end-->
+<h2>Department-wide Subjects</h2>
+<a name="11.225"></a>
+<p><h3>11.225 Argumentation and Communication
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom"><br>Not offered regularly; consult department
+<br>Prereq: None
+<br>Units: 2-0-4
+<br><img alt="______" src="/icns/hr.gif">
+<br>A writing practicum associated with 11.201 that focuses on helping students write and present their ideas in cogent, persuasive arguments and other analytical frameworks. Reading and writing assignments and other exercises stress the connections between clear thinking, critical reading, and effective writing.
+<br><I>C. Abbanat</I><br>
+</p><!--end-->
+<a name="11.229"></a>
+<p><h3>11.229 Advanced Writing Seminar
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Not offered academic year 2016-2017" title="Not offered academic year 2016-2017" src="/icns/nooffer.gif"><img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom">
+<br>Prereq: None
+<br>Units: 2-0-7
+<br><img alt="______" src="/icns/hr.gif">
+<br>Focuses on writing and speaking skills. Students bring their writing from other classes to the workshop to practice reviewing and rewriting skills and make several oral presentations. Different types of writing including proposals, memos, thesis, press releases, and writing sound bites for the media.
+<br><I>C. Abbanat</I><br>
+</p><!--end-->
+<a name="11.233"></a>
+<p><h3>11.233 Research Design for Policy Analysis and Planning
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)
+<br>Prereq: Permission of instructor
+<br>Units: 3-0-9
+<br><img alt="______" src="/icns/hr.gif">
+<br>Develops skills in research design for policy analysis and planning. Emphasizes the logic of the research process and its constituent elements. Topics include philosophy of science, question formulation, hypothesis generation and theory construction, data collection techniques (e.g. experimental, survey, interview), ethical issues in research, and research proposal preparation. Limited to doctoral students in Course 11.
+<br><I>G. Carolini</I><br>
+</p><!--end-->
+<a name="11.234"></a>
+<p><h3>11.234 Making Sense: Qualitative Methods for Designers and Planners
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Not offered academic year 2016-2017" title="Not offered academic year 2016-2017" src="/icns/nooffer.gif"><img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>Prereq: None
+<br>Units: 3-3-6
+<br><img alt="______" src="/icns/hr.gif">
+<br>Surveys uses of qualitative methods in urban design and planning research and practice. Topics include observing environments, physical traces, and environmental behavior; asking questions; focused interviews; standardized questionnaires; use of written archival materials; use of visual materials, including photographs, new media, and maps; case studies; and comparative methods. Emphasizes use of each of these skills to collect and make sense of qualitative data in community and institutional settings.
+<br><I>Staff</I><br>
+</p><!--end-->
+<a name="11.236"></a>
+<p><h3>11.236 Theory of Participatory Action Research (PAR)
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">); partial term
+<br>Prereq: None
+<br>Units: 2-0-4
+<br>URL: <a href="http://dusp.mit.edu/subject/fall-2014-11s944">http://dusp.mit.edu/subject/fall-2014-11s944</a>
+<br><img alt="______" src="/icns/hr.gif">
+<br>Introduces the theory of participatory action research (PAR) and competing ideas about the uses of social research to promote social change. Focuses on the epistemological foundation for and knowledge generation in action research, as well as on approaches to co-producing research that requires engagement of the subjects, communities, or organizations that are being studied in the design, implementation and interpretation of applied social research. Explores the ethical obligations of outsiders along with rights and responsibilities of insiders in the research findings. Emphasizes recent scholarship, including arguments for and against phronetic social science.
+<br><I>L. Susskind, D. Cunningham</I><br>
+</p><!--end-->
+<a name="11.237"></a>
+<p><h3>11.237 Practice of Participatory Action Research (PAR)
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>Prereq: <a href="m11b.html#11.236">11.236</a> or permission of instructor
+<br>Units: 3-0-3
+<br><b>Lecture:</b> <i>R EVE (4-7 PM)</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=9">9-450A</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Introduces the techniques of participatory action research (PAR) and the practice of case study research. Presents competing ideas about context-independent vs. context-dependent knowledge, arguments for and against generating theory on the basis of a single case, and problems of verification in PAR (i.e., disconfirming the researchers preconceptions). Focuses on actual cases in which PAR-like methods have been used with greater or lesser success. Integrates interactions with representatives of communities, organizations, and individuals who have been the focus of PAR. Analyzes techniques for co-designing and co-conducting all aspects of applied social research.
+<br><I>D. Cunningham, A. Coffey, K. Kaeufer</I><br>No textbook information available
+</p><!--end-->
+<a name="11.238"></a>
+<p><h3>11.238[J] Ethics of Intervention
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Not offered academic year 2016-2017" title="Not offered academic year 2016-2017" src="/icns/nooffer.gif"><img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>(Same subject as <A HREF="m21Aa.html#21A.409">21A.409[J]</A>)
+<br>Prereq: Permission of instructor
+<br>Units: 3-0-9
+<br><img alt="______" src="/icns/hr.gif">
+<br>An historical and cross-cultural study of the logics and practices of intervention: the ways that individuals, institutions, and governments identify conditions of need or  states of emergency within and across borders that require a response. Examines when a response is viewed as obligatory, when is it deemed unnecessary, and by whom; when the intercession is considered fulfilled; and the rationales or assumptions that are employed in assessing interventions. Theories of the state, globalization, and humanitarianism; power, policy, and institutions; gender, race, and ethnicity; and law, ethics, and morality are examined.
+<br><I>E. C. James</I><br>
+</p><!--end-->
+<a name="11.239"></a>
+<p><h3>11.239 The City in Film
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>(Subject meets with <A HREF="m11a.html#11.139">11.139</A>)
+<br>Prereq: Permission of instructor
+<br>Units: 2-2-5
+<br><b>Lecture:</b> <i>T3-5</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=9">9-451</a>) <b>Recitation:</b> <i>R EVE (7-10 PM)</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=3">3-133</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Surveys important developments in urbanism from 1900 to the present, using film as a lens to explore and interpret aspects of the urban experience in the US and abroad. Topics include industrialization, demographics, diversity, the environment, and the relationship between the community and the individual. Films vary from year to year but always include a balance of classics from the history of film, an occasional experimental/avant-garde film, and a number of more recent, mainstream movies. Students taking undergraduate version complete writing assignments that focus on observation, analysis, and the essay, and give an oral presentation.
+<br><I>E. Glenn</I><br><a href="javascript:PopUpHelp('http://eduapps.mit.edu/textbook/books.html?Term=2017SP&Subject=11.239');" >Textbooks (Spring 2017)</a></font>
+</p><!--end-->
+<a name="11.250"></a>
+<p><h3>11.250 Transportation Research Design
+<br>(New)
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom">
+<br>Prereq: Permission of Instructor
+<br>Units: 2-0-1 [P/D/F]
+<br><img alt="______" src="/icns/hr.gif">
+<br>Seminar dissects ten transportation studies from head to toe to illustrate how research ideas are initiated, framed, analyzed, evidenced, written, presented, criticized, revised, extended, and published, quoted and applied. Students design and execute their own transportation research. Limited to 20.
+<br><I>J. Zhao</I><br>
+</p><!--end-->
+<a name="11.252"></a>
+<p><h3>11.252[J] Design and Development of Games for Learning
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>(Same subject as <A HREF="mCMSa.html#CMS.863">CMS.863[J]</A>)<br>(Subject meets with <A HREF="m11a.html#11.127">11.127[J]</A>, <A HREF="mCMSa.html#CMS.590">CMS.590[J]</A>)
+<br>Prereq: None
+<br>Units: 3-6-3
+<br><b>Lecture:</b> <i>TR1-2.30</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=5">5-134</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Immerses students in the process of building and testing their own digital and board games in order to better understand how we learn from games.  Explores the design and use of games in the classroom in addition to research and development issues associated with computer-based (desktop and handheld) and non-computer-based media. In developing their own games, students examine what and how people learn from them (including field testing of products), as well as how games can be implemented in educational settings.  All levels of computer experience welcome. Students taking graduate version complete additional assignments.
+<br><I>E. Klopfer</I><br><a href="javascript:PopUpHelp('http://eduapps.mit.edu/textbook/books.html?Term=2017SP&Subject=11.252');" >Textbooks (Spring 2017)</a></font>
+</p><!--end-->
+<a name="11.255"></a>
+<p><h3>11.255 Negotiation and Dispute Resolution in the Public Sector
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>Prereq: None
+<br>Units: 4-0-8
+<br><b>Lecture:</b> <i>MW3.30-5.30</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=9">9-354</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Investigates social conflict and distributional disputes in the public sector. While theoretical aspects of conflict and consensus building are considered, focus is on the practice of negotiation and dispute resolution. Comparisons between unassisted and assisted negotiation are reviewed along with the techniques of facilitation and mediation.
+<br><I>L. Susskind</I><br><a href="javascript:PopUpHelp('http://eduapps.mit.edu/textbook/books.html?Term=2017SP&Subject=11.255');" >Textbooks (Spring 2017)</a></font>
+</p><!--end-->
+</td></tr></table>
+<hr width="90%" align="center">
+<table align="center"><tr><td valign=middle><img src="/icns/purple1.gif" width="20" height="20" alt="left arrow"></td><td valign=middle><b> | </b></td><td valign=middle align=center><b><a href="m11a.html">Undergraduate: 11.00-11.199 <br>plus UROP, ThU, ThT</a></b></td><td valign=middle><b> | </b></td><td valign=middle align=center><b>Graduate: 11.20-11.299</b></td><td valign=middle><b> | </b></td><td valign=middle align=center><b><a href="m11c.html">Graduate: 11.30-11.999 plus ThG</a></b></td><td valign=middle><b> | </b></td><td valign=middle><img src="/icns/purple2.gif" width="20" height="20" alt="right arrow"></td></tr></table>
+<hr width="90%" align="center">
+<br><font size="-1"></table><div id="footer">
+<table width="750" border="0" cellspacing="0" cellpadding="0" align="center">
+ <tr><td align="left" valign="top" height="64">
+     <hr>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" align="left">
+   <tr>
+    <td align="left" valign="top" height="24" width="42"><a href="http://web.mit.edu"><img
+        src="/icns/newmit.gif" width="42" height="24" border="0" align="top" alt="MIT"></a></td>
+    <td width="4" align="left" valign="top">&nbsp;</td>
+    <td align="left" valign="top">
+   <a href="index.cgi">Home</a> 
+ | <a href="http://web.mit.edu/catalog/">Online Bulletin</a><!--arc-->
+ | <a href="http://web.mit.edu/referencepubs/catalog/getacopy.html">Order a Printed Bulletin</a><!--arc-->
+ | <a href="http://web.mit.edu/iap/">IAP</a><!--arc-->
+ | <a href="http://web.mit.edu/catalog/summer/">Summer Session Catalog</a><!--arc-->
+    </td>
+    <td align="right" valign="top">
+      <a href="https://web.mit.edu/is/courseweb/restricted/url-update-request.html">URL              Updates Form</a><br>(certificates required)<!--arc-->
+    </td>
+   </tr>
+  <tr>
+    <td colspan="2">&nbsp;</td>
+    <td colspan="2" align="left" valign="top">For questions about the subject listings, write to 
+<a href="mailto:registrar-www@mit.edu">registrar-www@mit.edu</a>
+    <br><a href="http://web.mit.edu/registrar/">Registrar's Office</a>,
+        Room <a href="http://whereis.mit.edu/map-jpg?mapterms=5-117">5-117</a>,
+        77 Massachusetts Ave, Cambridge, MA 02139-4307
+   <br><i>Copyright &#169; 2013 Massachusetts Institute of Technology</i>
+    </td>
+   </tr>
+  </table>
+ </td></tr>
+</table>
+</div></div></font>
+<br><font size="-1">Produced: 09-MAR-2017 05:10 PM</font>
+</body>
+</html>

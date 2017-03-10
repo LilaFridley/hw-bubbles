@@ -1,0 +1,448 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="/cgi-data/styles/registrar_mini.css" Type="text/css">
+<title>IAP/Spring
+2017 Course 5: Chemistry</title>
+<meta http-equiv="expires" content="10 MAR 2017" >
+<meta name="DEPARTMENT" content="   5" >
+<script language="JavaScript">
+<!-- hide from non-JavaScript browsers 
+function PopUpHelp (pUrl) {
+var xPopUpHelpWindow=window.open(pUrl,"PopUpHelp",
+"titlebar=yes,resizable=yes,scrollbars=yes,menubar=yes,toolbar=no,width=750,height=750");
+xPopUpHelpWindow.focus();
+}
+ // end hide -->
+</script>
+<!-- Produced by the Curricular Information System Generic Publication program -->
+</head>
+<body><!-- REGISTRAR HEADER -->
+<div id="registrarheadercontainer">
+ <div id="registrarmininav">
+  <a href="http://web.mit.edu/registrar/index.html"><img src="/icns/RegLogo.gif"
+alt="Office of the Registrar Home" width="239" height="46" border="0" class="registrarlogo" /></a>
+  <form method='get' action='http://search.mit.edu/search'>
+    <a href="http://web.mit.edu/registrar/index.html">Registrar Home</a>  |  Registrar Search:
+    <input name="q" type="text" class="searchfield" size="17" />
+    <input name="btnG" type="image" class="submit" value="submit" src="/icns/RegGo.gif"
+alt="Search" align="middle" />
+    <input type='hidden' name='site' value='mit'/>
+    <input type='hidden' name='client' value='mit'/>
+    <input type='hidden' name='proxystylesheet' value='http://web.mit.edu/registrar/styles/google-registrar.xsl'/>
+    <input type='hidden' name='output' value='xml_no_dtd'/>
+    <input type='hidden' name='as_dt' value='i'/>
+    <input type='hidden' name='as_sitesearch' value='web.mit.edu/registrar' />
+  </form>
+  &nbsp;<br>&nbsp;
+    <a href="http://picker.mit.edu/" target="picker">MIT Course Picker</a> |  
+  <a href="http://planner.mit.edu/" target="planner">MIT Course Planner</a> <!--arc-->
+  &nbsp;&nbsp;&nbsp;&nbsp;
+ </div>
+</div>
+<div id="contentleft">
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+<tr><td align="center" valign="top"><b>
+<a href="index.cgi">Home</a>
+ | <a href="extsearch.cgi">Subject Search</a>
+ | <a href="help.html">Help</a>
+ | <a href="symbols.html">Symbols Help</a>
+ | <a href="help.html#prereg">Pre-Reg Help</a><!--arc-->
+ | <a href="http://web.mit.edu/registrar/www/schedules/exams.html">Final Exam Schedule</a><!--arc-->
+</b></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>
+<h1 align="center">Course 5: Chemistry<br>IAP/Spring
+2017</h1><div id="contentmini"><b><a href="http://chemistry.mit.edu"><i>Course 5 Home</i></a>&nbsp; &nbsp; <a href="http://web.mit.edu/commreq/cim/course5.html"><i>CI-M Subjects for Undergraduate Majors</i></a>&nbsp; &nbsp; <a href="./search.cgi?search=5&when=J"><i>IAP only</i></a>&nbsp; &nbsp; <a href="https://sisapp.mit.edu/ose-rpt/subjectEvaluationSearch.htm?departmentId=+++5&search=Search"><i>Evaluations</i></a> <a href="http://ist.mit.edu/certificates"><i>(Certificates Required)</i></a></b><hr width="90%" align="center"><table align="center"><tr><td valign=middle><img src="/icns/purple1.gif" width="20" height="20" alt="left arrow"></td><td valign=middle><b> | </b></td><td valign=middle align=center><b>5.00-5.4999</b></td><td valign=middle><b> | </b></td><td valign=middle align=center><b><a href="m5b.html">5.50-5.999, plus UROP and Theses</a></b></td><td valign=middle><b> | </b></td><td valign=middle><img src="/icns/purple2.gif" width="20" height="20" alt="right arrow"></td></tr></table></div>
+<hr width="90%" align="center">
+<table border=0 width="100%"><tr><td>
+<a name="5.00"></a>
+<p><h3>5.00[J] Energy Technology and Policy:  From Principles to Practice
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Not offered academic year 2016-2017" title="Not offered academic year 2016-2017" src="/icns/nooffer.gif"><img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>(Same subject as <A HREF="m6c.html#6.929">6.929[J]</A>, <A HREF="m10a.html#10.579">10.579[J]</A>, <A HREF="m22c.html#22.813">22.813[J]</A>)
+<br>Prereq: None
+<br>Units: 3-0-6
+<br><img alt="______" src="/icns/hr.gif">
+<br>Develops analytical skills to lead a successful technology implementation with an integrated approach that combines technical, economical and social perspectives. Considers corporate and government viewpoints as well as international aspects, such as nuclear weapons proliferation and global climate issues.  Discusses technologies such as oil and gas, nuclear, solar, and energy efficiency. Limited to 100.
+<br><I>J. Deutch</I><br>
+</p><!--end-->
+<a name="5.03"></a>
+<p><h3>5.03 Principles of Inorganic Chemistry I
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>Prereq: <a href="m5a.html#5.12">5.12</a>
+<br>Units: 5-0-7
+<br><b>Lecture:</b> <i>TR11-12.30</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-231</a>) <b>Recitation:</b> <i>MW2</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=66">66-160</a>) or <i>TR2</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=26">26-310</a>) or <i>TR4</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=8">8-205</a>) <i><b>+final</b></i><!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Presents principles of chemical bonding and molecular structure, and their application to the chemistry of representative elements of the periodic system.
+<br><I>A. Radosevich, Y. Surendranath</I><br><a href="javascript:PopUpHelp('http://eduapps.mit.edu/textbook/books.html?Term=2017SP&Subject=5.03');" >Textbooks (Spring 2017)</a></font>
+<a name="5.04"></a>
+<p><h3>5.04 Principles of Inorganic Chemistry II
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)
+<br>Prereq: <a href="m5a.html#5.03">5.03</a>
+<br>Units: 4-0-8
+<br><img alt="______" src="/icns/hr.gif">
+<br>Systematic presentation of the chemical applications of group theory. Emphasis on the formal development of the subject and its applications to the physical methods of inorganic chemical compounds. Against the backdrop of electronic structure, the electronic, vibrational, and magnetic properties of transition metal complexes are presented and their investigation by the appropriate spectroscopy described.
+<br><I>M. Dinca, Y. Surendranath</I><br>
+<a name="5.05"></a>
+<p><h3>5.05 Principles of Inorganic Chemistry III
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)
+<br>Prereq: <a href="m5a.html#5.03">5.03</a>, <I>Coreq: <a href="m5a.html#5.04">5.04</a></I>
+<br>Units: 2-0-4
+<br><img alt="______" src="/icns/hr.gif">
+<br>Principles of main group (s and p block) element chemistry with an emphasis on synthesis, structure, bonding, and reaction mechanisms.
+<br><I>C. C. Cummins</I><br>
+</p><!--end-->
+<a name="5.061"></a>
+<p><h3>5.061 Principles of Organometallic Chemistry
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">); first half of term
+<br>Prereq: <a href="m5a.html#5.03">5.03</a>
+<br>Units: 2-0-4
+<br>Ends Mar 24. <b>Lecture:</b> <i>MW8.30-10</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-265</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>A comprehensive treatment of organometallic compounds of the transition metals with emphasis on structure, bonding, synthesis, and mechanism.
+<br><I>R. Schrock</I><br><a href="javascript:PopUpHelp('http://eduapps.mit.edu/textbook/books.html?Term=2017SP&Subject=5.061');" >Textbooks (Spring 2017)</a></font>
+</p><!--end-->
+<a name="5.062"></a>
+<p><h3>5.062 Principles of Bioinorganic Chemistry
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)
+<br>Prereq: <a href="m5a.html#5.03">5.03</a>
+<br>Units: 3-0-9
+<br><img alt="______" src="/icns/hr.gif">
+<br>Delineates principles that form the basis for understanding how metal ions function in biology. Includes the choice, uptake and assembly of metal-containing units; metal-induced folding of biomolecules; control of metal ion concentrations in cells; electron-transfer chemistry; atom and group transfer chemistry; protein tuning of metal properties; and applications to diagnosis and treatment of disease. Introduces additional topics to expose students to exciting new advances in the field, such as medicinal application of inorganic chemistry; multi-component enzyme systems (e.g.,nitrogenase, hydrogenase, and photosystem II); and metalloprotein engineering and design (e.g., the conversion by mutagenesis of existing metalloprotein scaffolds to achieve novel functions).
+<br><I>S. Lippard</I><br>
+</p><!--end-->
+<a name="5.063"></a>
+<p><h3>5.063 Organometallic Compounds in Catalytic Reactions
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">); first half of term<br>Not offered regularly; consult department
+<br>Prereq: <a href="m5a.html#5.061">5.061</a>
+<br>Units: 2-0-4
+<br><img alt="______" src="/icns/hr.gif">
+<br>An exploration of organometallic chemistry from the perspective of catalytic reactions in organic and polymer chemistry.
+<br><I>R. Schrock</I><br>
+</p><!--end-->
+<a name="5.067"></a>
+<p><h3>5.067 Crystal Structure Refinement
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)
+<br>Prereq: <a href="m5a.html#5.068">5.068</a>, <a href="m5a.html#5.069">5.069</a>, or permission of instructor
+<br>Units: 2-3-1
+<br><img alt="______" src="/icns/hr.gif">
+<br>Practical aspects of crystal structure determination from data collection strategies to data reduction and basic and advanced refinement problems of organic and inorganic molecules.
+<br><I>P. Mueller</I><br>
+</p><!--end-->
+<a name="5.068"></a>
+<p><h3>5.068 Physical Inorganic Chemistry
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">); second half of term
+<br>Prereq: <a href="m5a.html#5.03">5.03</a>, <a href="m5a.html#5.04">5.04</a>
+<br>Units: 3-0-3
+<br>Begins Apr 3. <b>Lecture:</b> <i>WF10-11.30</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=2">2-146</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Discusses the physical methods used to probe the electronic and geometric structures of inorganic compounds, with additional techniques employed in the characterization of inorganic solids and surfaces. Includes vibrational spectroscopy, solid state and solution magnetochemical methods, M&ouml;ssbauer spectroscopy, electron paramagnetic resonance spectroscopy, electrochemical methods, and a brief survey of surface techniques. Applications to current research problems in inorganic and solid-state chemistry.
+<br><I>M. Dinc&abreve;</I><br>No textbook information available
+</p><!--end-->
+<a name="5.069"></a>
+<p><h3>5.069 Crystal Structure Analysis
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">); first half of term
+<br>Prereq: <a href="m5a.html#5.03">5.03</a>, <a href="m5a.html#5.04">5.04</a>
+<br>Units: 2-0-4
+<br>Ends Mar 24. <b>Lecture:</b> <i>TR8.30-10</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=2">2-105</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Introduction to X-ray crystallography: symmetry in real and reciprocal space, space and Laue groups, geometry of diffraction, structure factors, phase problem, direct and Patterson methods, electron density maps, structure refinement, crystal growth, powder methods, limits of diffraction methods, structure data bases.
+<br><I>P. Mueller</I><br><a href="javascript:PopUpHelp('http://eduapps.mit.edu/textbook/books.html?Term=2017SP&Subject=5.069');" >Textbooks (Spring 2017)</a></font>
+</p><!--end-->
+<a name="5.07"></a>
+<p><h3>5.07[J] Biological Chemistry I
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">) <img src="/icns/rest.gif" alt="Rest Elec in Sci & Tech" title="Rest Elec in Sci & Tech" width="16" height="16" align="bottom">
+<br>(Same subject as <A HREF="m20a.html#20.507">20.507[J]</A>)
+<br>Prereq: <a href="m5a.html#5.12">5.12</a>
+<br>Units: 5-0-7
+<br>Credit cannot also be received for <A HREF="m7a.html#7.05">7.05</A>
+<br><img alt="______" src="/icns/hr.gif">
+<br>Chemical and physical properties of the cell and its building blocks. Structures of proteins and principles of catalysis. The chemistry of organic/inorganic cofactors required for chemical transformations within the cell. Basic principles of metabolism and regulation in pathways, including glycolysis, gluconeogenesis, fatty acid synthesis/degradation, pentose phosphate pathway, Krebs cycle and oxidative phosphorylation, DNA replication, and transcription and translation.
+<br><I>E. Nolan, A. Klibanov</I><br>
+<a name="5.08"></a>
+<p><h3>5.08[J] Biological Chemistry II
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>(Same subject as <A HREF="m7a.html#7.08">7.08[J]</A>)<br>(Subject meets with <A HREF="m7a.html#7.80">7.80</A>)
+<br>Prereq: <a href="m5a.html#5.12">5.12</a>; <a href="m5a.html#5.07">5.07</a> or <a href="m7a.html#7.05">7.05</a>
+<br>Units: 4-0-8
+<br><b>Lecture:</b> <i>MWF11</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=2">2-105</a>) <b>Recitation:</b> <i>W1</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=1">1-132</a>) or <i>R1</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-253</a>) or <i>F1</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=1">1-132</a>) or <i>F2</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=1">1-132</a>) <i><b>+final</b></i><!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>More advanced treatment of biochemical mechanisms that underlie biological processes.  Topics include macromolecular machines such as the ribosome, the proteosome, fatty acid synthases as a paradigm for polyketide synthases and non-ribosomal polypeptide synthases, and polymerases. Emphasis is on experimental methods used to unravel these processes and how these processes fit into the cellular context and coordinate regulation.
+<br><I>E. Nolan</I><br>No required or recommended textbooks
+</p><!--end-->
+<a name="5.111"></a>
+<p><h3>5.111 Principles of Chemical Science
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">) <img src="/icns/chem.gif" alt="Chemistry" title="Chemistry" width="16" height="16" align="bottom">
+<br>Prereq: None
+<br>Units: 5-0-7
+<br>Credit cannot also be received for <A HREF="m3a.html#3.091">3.091</A>, <A HREF="m5a.html#5.112">5.112</A>, <A HREF="mCCa.html#CC.5111">CC.5111</A>, <A HREF="mESa.html#ES.3091">ES.3091</A>, <A HREF="mESa.html#ES.5111">ES.5111</A>, <A HREF="mESa.html#ES.5112">ES.5112</A>
+<br><b>Lecture:</b> <i>MWF12</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=32">32-123</a>) <b>Recitation:</b> <i>TR10</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=36">36-372</a>) or <i>TR11</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=36">36-372</a>, <a href="http://whereis.mit.edu/map-jpg?mapterms=36">36-144</a>) or <i>TR12</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=36">36-372</a>, <a href="http://whereis.mit.edu/map-jpg?mapterms=1">1-277</a>) or <i>TR1</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=1">1-277</a>, <a href="http://whereis.mit.edu/map-jpg?mapterms=36">36-156</a>) or <i>TR2</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=1">1-277</a>, <a href="http://whereis.mit.edu/map-jpg?mapterms=36">36-156</a>) or <i>TR3</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=36">36-156</a>) <i><b>+final</b></i><!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Introduction to chemistry, with emphasis on basic principles of atomic and molecular electronic structure, thermodynamics, acid-base and redox equilibria, chemical kinetics, and catalysis. Introduction to the chemistry of biological, inorganic, and organic molecules.
+<br>Fall: <I>M. Shoulders, T. Van Voorhis</I><br>Spring: <I>M. Bawendi, M. Hong</I><br><a href="javascript:PopUpHelp('http://eduapps.mit.edu/textbook/books.html?Term=2017SP&Subject=5.111');" >Textbooks (Spring 2017)</a></font>
+</p><!--end-->
+<a name="5.112"></a>
+<p><h3>5.112 Principles of Chemical Science
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">) <img src="/icns/chem.gif" alt="Chemistry" title="Chemistry" width="16" height="16" align="bottom">
+<br>Prereq: None
+<br>Units: 5-0-7
+<br>Credit cannot also be received for <A HREF="m3a.html#3.091">3.091</A>, <A HREF="m5a.html#5.111">5.111</A>, <A HREF="mCCa.html#CC.5111">CC.5111</A>, <A HREF="mESa.html#ES.3091">ES.3091</A>, <A HREF="mESa.html#ES.5111">ES.5111</A>, <A HREF="mESa.html#ES.5112">ES.5112</A>
+<br><img alt="______" src="/icns/hr.gif">
+<br>Introduction to chemistry for students with an unusually strong background in chemistry. Knowledge of calculus equivalent to 18.01 is recommended. Emphasis on basic principles of atomic and molecular electronic structure, thermodynamics, acid-base and redox equilibria, chemical kinetics, and catalysis. Applications of basic principles to problems in metal coordination chemistry, organic chemistry, and biological chemistry.
+<br><I>R. Schrock, S. Ceyer</I><br>
+</p><!--end-->
+<a name="5.12"></a>
+<p><h3>5.12 Organic Chemistry I
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">) <img src="/icns/rest.gif" alt="Rest Elec in Sci & Tech" title="Rest Elec in Sci & Tech" width="16" height="16" align="bottom">
+<br>Prereq: <a href="./search.cgi?search=&cred=c" title="3.091, 5.111, 5.112">Chemistry (GIR)</a>
+<br>Units: 5-0-7
+<br>Credit cannot also be received for <A HREF="mCCa.html#CC.512">CC.512</A>
+<br><b>Lecture:</b> <i>MWF12</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=10">10-250</a>) <b>Recitation:</b> <i>MW1</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=36">36-155</a>) or <i>MW2</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=36">36-155</a>) or <i>MW3</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=36">36-155</a>) or <i>TR11</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=36">36-112</a>, <a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-159</a>) or <i>TR12</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=36">36-112</a>, <a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-159</a>, <a href="http://whereis.mit.edu/map-jpg?mapterms=36">36-153</a>, <a href="http://whereis.mit.edu/map-jpg?mapterms=36">36-144</a>) or <i>TR1</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=36">36-153</a>, <a href="http://whereis.mit.edu/map-jpg?mapterms=38">38-166</a>) or <i>TR2</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=36">36-144</a>) or <i>TR3</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=36">36-144</a>) <i><b>+final</b></i><!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Introduction to organic chemistry. Development of basic principles to understand the structure and reactivity of organic molecules. Emphasis on substitution and elimination reactions and chemistry of the carbonyl group. Introduction to the chemistry of aromatic compounds.
+<br>Fall: <I>J. Johnson, P. Ruiz-Castillo</I><br>Spring: <I>R. L. Danheiser, P. Ruiz-Castillo</I><br><a href="javascript:PopUpHelp('http://eduapps.mit.edu/textbook/books.html?Term=2017SP&Subject=5.12');" >Textbooks (Spring 2017)</a></font>
+<a name="5.13"></a>
+<p><h3>5.13 Organic Chemistry II
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)
+<br>Prereq: <a href="m5a.html#5.12">5.12</a>
+<br>Units: 5-0-7
+<br><img alt="______" src="/icns/hr.gif">
+<br>Focuses on synthesis, structure determination, mechanism, and the relationships between structure and reactivity. Selected topics illustrate the role of organic chemistry in biological systems and in the chemical industry.
+<br><I>M. Movassaghi</I><br>
+</p><!--end-->
+<a name="5.24"></a>
+<p><h3>5.24[J] Archaeological Science
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">) <img src="/icns/hassS.gif" alt="HASS Social Sciences" title="HASS Social Sciences" width="16" height="16" align="bottom">
+<br>(Same subject as <A HREF="m3b.html#3.985">3.985[J]</A>, <A HREF="m12a.html#12.011">12.011[J]</A>)
+<br>Prereq: <a href="./search.cgi?search=&cred=c" title="3.091, 5.111, 5.112">Chemistry (GIR)</a> or <a href="./search.cgi?search=&cred=p1" title="8.01, 8.01L, 8.011, 8.012">Physics I (GIR)</a>
+<br>Units: 3-1-5
+<br><b>Lecture:</b> <i>M EVE (7-10 PM)</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-370</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Pressing issues in archaeology as an anthropological science. Stresses the natural science and engineering methods archaeologists use to address these issues. Reconstructing time, space, and human ecologies provides one focus; materials technologies that transform natural materials to material culture provide another. Topics include 14C dating, ice core and palynological analysis, GIS and other remote sensing techniques for site location, soil micromorphology and site formation, sourcing of metal artifacts, and microstructural and mechanical analyses of cementitious materials used in ancient monumental buildings.
+<br><I>H. N. Lechtman</I><br>No required or recommended textbooks
+</p><!--end-->
+<a name="5.301"></a>
+<p><h3>5.301 Chemistry Laboratory Techniques
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">)
+<br>Prereq: <a href="./search.cgi?search=&cred=c" title="3.091, 5.111, 5.112">Chemistry (GIR)</a>, permission of instructor
+<br>Units: 1-4-1 [P/D/F]
+<br>URL: <a href="http://chemistry.mit.edu/freshmen-pre-freshmen/chemistry-lab-techniques-5301">http://chemistry.mit.edu/freshmen-pre-freshmen/chemistry-lab-techniques-5301</a>
+<br><img alt="______" src="/icns/hr.gif">
+<br>Practical training in basic chemistry laboratory techniques. Intended to provide freshmen with the skills necessary to undertake original research projects in chemistry. Freshmen only. Enrollment limited.
+<br><I>J. Dolhun</I><br><a href="javascript:PopUpHelp('http://eduapps.mit.edu/textbook/books.html?Term=2017JA&Subject=5.301');" >Textbooks (IAP 2017)</a></font>
+</p><!--end-->
+<a name="5.310"></a>
+<p><h3>5.310 Laboratory Chemistry
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">) <img src="/icns/Lab.gif" alt="Institute Lab" title="Institute Lab" width="16" height="16" align="bottom">
+<br>Prereq: None. <I>Coreq: <a href="m5a.html#5.12">5.12</a></I>
+<br>Units: 2-8-2
+<br>1st lec mandatory. Safety lecture mandatory. 2/7 or 2/8 at 1 pm room TBA. <b>Lecture:</b> <i>TR10</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-370</a>) <b>Lab:</b> <i>MW1-5</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-430</a>) or <i>TR1-5</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-430</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Introduces experimental chemistry for students who are not majoring in Course 5. Principles and applications of chemical laboratory techniques, including preparation and analysis of chemical materials, measurement of pH, gas and liquid chromatography, visible-ultraviolet spectrophotometry, infrared spectroscopy, kinetics, data analysis, and elementary synthesis. Enrollment limited.
+<br><I>J. Dolhun</I><br><a href="javascript:PopUpHelp('http://eduapps.mit.edu/textbook/books.html?Term=2017SP&Subject=5.310');" >Textbooks (Spring 2017)</a></font>
+</p><!--end-->
+<a name="5.35"></a>
+<p><h3>5.35 Introduction to Experimental Chemistry
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">) <img src="/icns/Lab.gif" alt="Institute Lab" title="Institute Lab" width="16" height="16" align="bottom"> <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom">
+<br>(Subject meets with <A HREF="m5a.html#5.35U">5.35U</A>)
+<br>Prereq: See module descriptions
+<br>Units arranged
+<br>URL: <a href="http://chemistry.mit.edu/urieca/urieca-module-signup-form-535535u">http://chemistry.mit.edu/urieca/urieca-module-signup-form-535535u</a>
+<br>Select 4, 8 or 12 units. Safety lecture mandatory. 2/7 or 2/8 at 1 pm room TBA. <b>Lecture:</b> <i>TR9</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-153</a>) <b>Lab:</b> <i>MW1-5</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-430</a>) or <i>TR1-5</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-430</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>This 12-unit subject consists of 3 modules, which may be taken during different terms. Modules and prerequisites are as follows:<br>Module 1 (Prereq: 5.111, 5.112 or 3.091) Survey of spectroscopy.<br> Module 2 (Prereq: 5.111, 5.112 or 3.091; <i> Module 1</i>) Synthesis of coordination compounds and kinetics.<br> Module 3 (Prereq: 5.111, 5.112 or 3.091;<i> 5.12, Module 2</i>) Fabrication of a polymeric light emitting device.<br> Enrollment limited; preference to Course 5 majors.
+<br><I>K. Nelson (Module 1), Y. Surendranath, M. Twardowski (Module 2), T. Swager (Module 3)</I><br>No textbook information available
+</p><!--end-->
+<a name="5.35U"></a>
+<p><h3>5.35U Introduction to Experimental Chemistry
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom">
+<br>(Subject meets with <A HREF="m5a.html#5.35">5.35</A>)
+<br>Prereq: See module descriptions under subject <a href="m5a.html#5.35">5.35</a>
+<br>Units arranged
+<br>URL: <a href="http://chemistry.mit.edu/urieca/urieca-module-signup-form-535535u">http://chemistry.mit.edu/urieca/urieca-module-signup-form-535535u</a>
+<br>Select 4, 8 or 12 units. Safety lecture mandatory. 2/7 or 2/8 at 1 pm room TBA. <b>Lecture:</b> <i>TR9</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-153</a>) <b>Lab:</b> <i>MW1-5</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-430</a>) or <i>TR1-5</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-430</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>For students who might not take all modules of 5.35.  Consult department when choosing a version of 5.35.  See description for 5.35.  May be taken for 8 or 4 units and repeated for credit up to a total of 12 units.
+<br><I>R. W. Field (Module 1), Y. Surendranath, M. Twardowski (Module 2), T. Swager (Module 3)</I><br>No textbook information available
+</p><!--end-->
+<a name="5.36"></a>
+<p><h3>5.36 Biochemistry and Organic Laboratory
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom">
+<br>(Subject meets with <A HREF="m5a.html#5.36U">5.36U</A>)
+<br>Prereq: See module descriptions
+<br>Units arranged
+<br>URL: <a href="http://chemistry.mit.edu/urieca/urieca-module-signup-536536u">http://chemistry.mit.edu/urieca/urieca-module-signup-536536u</a>
+<br>Select 4, 8 or 12 units. Safety lecture mandatory. 2/7 or 2/8 at 1 pm room TBA. <b>Lecture:</b> <i>TR10</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-153</a>) <b>Lab:</b> <i>MW1-5</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-430</a>) or <i>TR1-5</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-430</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>This 12-unit subject consists of 3 modules, which may be taken during different terms. Instruction and practice in the written and oral presentation of experimental results provided. Modules and prerequisites are as follows:<br>Module 4 Spring (Prereq: 5.07 or 7.05, Module 2 or 5.310, <i>Module 5</i>) Expression and Purification of Enzyme Mutants. Must be taken simultaneously with Module 5.<br>Module 5 Spring (Prereq: 5.07 or 7.05, Module 2 or 5.310, <i>Module 4</i>) Kinetics of Enzyme Inhibition. Must be taken simultaneously with Module 4.<br>Module 6 Fall (Prereq: 5.12, Module 2 or 5.310, <i>5.13</i>) Organic Structure Determination.<br> Enrollment limited; preference to Course 5 majors.
+<br>Fall: <I>R. L. Danheiser (Module 6)</I><br>Spring: <I>B. Pentelute (Modules 4 & 5)</I><br>No textbook information available
+</p><!--end-->
+<a name="5.36U"></a>
+<p><h3>5.36U Biochemistry and Organic Laboratory
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom">
+<br>(Subject meets with <A HREF="m5a.html#5.36">5.36</A>)
+<br>Prereq: See module descriptions under subject <a href="m5a.html#5.36">5.36</a>
+<br>Units arranged
+<br>URL: <a href="http://chemistry.mit.edu/urieca/urieca-module-signup-536536u">http://chemistry.mit.edu/urieca/urieca-module-signup-536536u</a>
+<br>Select 4, 8 or 12 units. Safety lecture mandatory. 2/7 or 2/8 at 1 pm room TBA. <b>Lecture:</b> <i>TR10</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-153</a>) <b>Lab:</b> <i>MW1-5</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-430</a>) or <i>TR1-5</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-430</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>For students who might not take all modules of 5.36.  Consult department when choosing a version of 5.36.  See description for 5.36.  May be taken for 8 or 4 units and repeated for credit up to a total of 12 units.
+<br>Fall: <I>R. L. Danheiser (Module 6)</I><br>Spring: <I>B. Pentelute (Modules 4 & 5)</I><br>No textbook information available
+</p><!--end-->
+<a name="5.37"></a>
+<p><h3>5.37 Organic and Inorganic Laboratory
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom">
+<br>(Subject meets with <A HREF="m5a.html#5.37U">5.37U</A>)
+<br>Prereq: See module descriptions
+<br>Units arranged
+<br>URL: <a href="http://chemistry.mit.edu/urieca/urieca-module-signup-537537u">http://chemistry.mit.edu/urieca/urieca-module-signup-537537u</a>
+<br>Select 4, 8 or 12 units. Safety lecture mandatory. 2/7 or 2/8 at 1 pm room TBA. <b>Lecture:</b> <i>TR10</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-153</a>) <b>Lab:</b> <i>MW1-5</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-430</a>) or <i>TR1-5</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-430</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>This 12-unit subject consists of 3 modules, which may be taken during different terms. Modules and prerequisites are as follows:<br> Module 7 Spring (Prereq: 5.13, Module 6)  Continuous Flow Chemistry:  Sustainable Conversion of Reclaimed Vegetable Oil into Biodiesel.<br>Module 8 Fall (Prereq: 5.03, Module 2) Chemistry of Renewable Energy. <br>Module 9 Fall (Prereq: 5.03, Module 6, <i>5.61</i>) Dinitrogen Cleavage.<br> Enrollment limited; preference to Course 5 majors.
+<br>Fall: <I>Y. Surendranath (Module 8); C. C. Cummins (Module 9)</I><br>Spring: <I>T. Jamison (Module 7)</I><br>No textbook information available
+</p><!--end-->
+<a name="5.37U"></a>
+<p><h3>5.37U Organic and Inorganic Laboratory
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom">
+<br>(Subject meets with <A HREF="m5a.html#5.37">5.37</A>)
+<br>Prereq: See module descriptions under subject <a href="m5a.html#5.37">5.37</a>
+<br>Units arranged
+<br>URL: <a href="http://chemistry.mit.edu/urieca/urieca-module-signup-537537u">http://chemistry.mit.edu/urieca/urieca-module-signup-537537u</a>
+<br>Select 4, 8 or 12 units. Safety lecture mandatory. 2/7 or 2/8 at 1 pm room TBA. <b>Lecture:</b> <i>TR10</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-153</a>) <b>Lab:</b> <i>MW1-5</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-430</a>) or <i>TR1-5</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-430</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>For students who might not take all modules of 5.37.  Consult department when choosing a version of 5.37.  See description for 5.37.  May be taken for 8 or 4 units and repeated for credit up to a total of 12 units.
+<br>Fall: <I>Y. Surendranath (Module 8); C. C. Cummins (Module 9)</I><br>Spring: <I>T. Jamison (Module 7)</I><br>No textbook information available
+</p><!--end-->
+<a name="5.38"></a>
+<p><h3>5.38 Biological and Physical Chemistry Laboratory
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom">
+<br>Prereq: See module descriptions
+<br>Units arranged
+<br>URL: <a href="http://chemistry.mit.edu/urieca/urieca-module-signup-538">http://chemistry.mit.edu/urieca/urieca-module-signup-538</a>
+<br>Select 4, 8 or 12 units. Safety lecture mandatory. 2/7 or 2/8 at 1 pm room TBA. <b>Lecture:</b> <i>TR9</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=8">8-119</a>) <b>Lab:</b> <i>MW1-5</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-430</a>) or <i>TR1-5</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-430</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>This 12-unit subject consists of 3 modules, which may be taken during different terms. Instruction and practice in the written and oral presentation of experimental results provided. Modules and prerequisites are as follows: <br>Module 10 (Prereq: 5.61, Module 6) Quantum Dots. <br>Module 11 (Prereq: 5.61, 5.07 or 7.05, Module 5) Time Resolved Molecular Spectroscopy. <br> Module 12 (Prereq: 5.07 or 7.05, Module 6)Fast Flow Peptide and Protein Synthesis.<br> Enrollment limited; preference to Course 5 majors.
+<br><I>M. G. Bawendi (Module 10), G. Schlau-Cohen (Module 11), B. Pentelute (Module 12)</I><br>No textbook information available
+</p><!--end-->
+<a name="5.43"></a>
+<p><h3>5.43 Advanced Organic Chemistry
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)
+<br>Prereq: <a href="m5a.html#5.13">5.13</a>
+<br>Units: 4-0-8
+<br>Credit cannot also be received for <A HREF="m5b.html#5.53">5.53</A>
+<br><img alt="______" src="/icns/hr.gif">
+<br>Reaction mechanisms in organic chemistry: methods of investigation, relation of structure to reactivity, and reactive intermediates.  Photochemistry and organometallic chemistry, with an emphasis on fundamental reactivity, mechanistic studies, and applications in organic chemistry.
+<br><I>T. Swager</I><br>
+</p><!--end-->
+<a name="5.44"></a>
+<p><h3>5.44 Organometallic Chemistry
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Not offered academic year 2017-2018" title="Not offered academic year 2017-2018" src="/icns/nonext.gif"><img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">); second half of term
+<br>Prereq: <a href="m5a.html#5.43">5.43</a>, <a href="m5a.html#5.47">5.47</a>, <a href="m5a.html#5.061">5.061</a>, or permission of instructor
+<br>Units: 2-0-4
+<br>Begins Apr 3. <b>Lecture:</b> <i>WF8.30-10</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-159</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Examination of the most important transformations of organotransition-metal species. Emphasizes basic mechanisms of their reactions, structure-reactivity relationships, and applications in synthesis.
+<br><I>A. Strom</I><br>No textbook information available
+</p><!--end-->
+<a name="5.45"></a>
+<p><h3>5.45 Heterocyclic Chemistry
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">); first half of term
+<br>Prereq: <a href="m5b.html#5.511">5.511</a>, <a href="m5b.html#5.53">5.53</a>
+<br>Units: 2-0-4
+<br>Ends Mar 24. <b>Lecture:</b> <i>T EVE (5.30-8.30 PM)</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-145</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Provides an introduction to the chemistry of heterocyclic compounds. Surveys synthesis and reactivity of the major classes of heterocyclic organic compounds. Discusses the importance of these molecules in the pharmaceutical and other industries.
+<br><I>S. Buchwald</I><br>No textbook information available
+</p><!--end-->
+<a name="5.46"></a>
+<p><h3>5.46 NMR Spectroscopy and Organic Structure Determination
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">); first half of term
+<br>Prereq: <a href="m5a.html#5.43">5.43</a>
+<br>Units: 2-0-4
+<br>Ends Mar 24. <b>Lecture:</b> <i>MWF10</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=4">4-265</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Applications of 1-D and 2-D <SUP>1</SUP>H and <SUP>13</SUP>C NMR spectroscopy to organic structure determination.
+<br><I>J. H. Simpson</I><br><a href="javascript:PopUpHelp('http://eduapps.mit.edu/textbook/books.html?Term=2017SP&Subject=5.46');" >Textbooks (Spring 2017)</a></font>
+</p><!--end-->
+<a name="5.47"></a>
+<p><h3>5.47 Tutorial in Organic Chemistry
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">); partial term
+<br>Prereq: <a href="m5a.html#5.43">5.43</a>, permission of instructor
+<br>Units: 2-0-4 [P/D/F]
+<br><img alt="______" src="/icns/hr.gif">
+<br>Systematic review of basic principles concerned with the structure and transformations of organic molecules. Problem-solving workshop format. The program is intended primarily for first-year graduate students with a strong interest in organic chemistry. Meets during the month of September.
+<br><I>R. L. Danheiser</I><br>
+</p><!--end-->
+</td></tr></table>
+<hr width="90%" align="center">
+<table align="center"><tr><td valign=middle><img src="/icns/purple1.gif" width="20" height="20" alt="left arrow"></td><td valign=middle><b> | </b></td><td valign=middle align=center><b>5.00-5.4999</b></td><td valign=middle><b> | </b></td><td valign=middle align=center><b><a href="m5b.html">5.50-5.999, plus UROP and Theses</a></b></td><td valign=middle><b> | </b></td><td valign=middle><img src="/icns/purple2.gif" width="20" height="20" alt="right arrow"></td></tr></table>
+<hr width="90%" align="center">
+<br><font size="-1"></table><div id="footer">
+<table width="750" border="0" cellspacing="0" cellpadding="0" align="center">
+ <tr><td align="left" valign="top" height="64">
+     <hr>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" align="left">
+   <tr>
+    <td align="left" valign="top" height="24" width="42"><a href="http://web.mit.edu"><img
+        src="/icns/newmit.gif" width="42" height="24" border="0" align="top" alt="MIT"></a></td>
+    <td width="4" align="left" valign="top">&nbsp;</td>
+    <td align="left" valign="top">
+   <a href="index.cgi">Home</a> 
+ | <a href="http://web.mit.edu/catalog/">Online Bulletin</a><!--arc-->
+ | <a href="http://web.mit.edu/referencepubs/catalog/getacopy.html">Order a Printed Bulletin</a><!--arc-->
+ | <a href="http://web.mit.edu/iap/">IAP</a><!--arc-->
+ | <a href="http://web.mit.edu/catalog/summer/">Summer Session Catalog</a><!--arc-->
+    </td>
+    <td align="right" valign="top">
+      <a href="https://web.mit.edu/is/courseweb/restricted/url-update-request.html">URL              Updates Form</a><br>(certificates required)<!--arc-->
+    </td>
+   </tr>
+  <tr>
+    <td colspan="2">&nbsp;</td>
+    <td colspan="2" align="left" valign="top">For questions about the subject listings, write to 
+<a href="mailto:registrar-www@mit.edu">registrar-www@mit.edu</a>
+    <br><a href="http://web.mit.edu/registrar/">Registrar's Office</a>,
+        Room <a href="http://whereis.mit.edu/map-jpg?mapterms=5-117">5-117</a>,
+        77 Massachusetts Ave, Cambridge, MA 02139-4307
+   <br><i>Copyright &#169; 2013 Massachusetts Institute of Technology</i>
+    </td>
+   </tr>
+  </table>
+ </td></tr>
+</table>
+</div></div></font>
+<br><font size="-1">Produced: 09-MAR-2017 05:10 PM</font>
+</body>
+</html>

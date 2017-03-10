@@ -1,0 +1,657 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="/cgi-data/styles/registrar_mini.css" Type="text/css">
+<title>IAP/Spring
+2017 Health Sciences and Technology</title>
+<meta http-equiv="expires" content="10 MAR 2017" >
+<meta name="DEPARTMENT" content=" HST" >
+<script language="JavaScript">
+<!-- hide from non-JavaScript browsers 
+function PopUpHelp (pUrl) {
+var xPopUpHelpWindow=window.open(pUrl,"PopUpHelp",
+"titlebar=yes,resizable=yes,scrollbars=yes,menubar=yes,toolbar=no,width=750,height=750");
+xPopUpHelpWindow.focus();
+}
+ // end hide -->
+</script>
+<!-- Produced by the Curricular Information System Generic Publication program -->
+</head>
+<body><!-- REGISTRAR HEADER -->
+<div id="registrarheadercontainer">
+ <div id="registrarmininav">
+  <a href="http://web.mit.edu/registrar/index.html"><img src="/icns/RegLogo.gif"
+alt="Office of the Registrar Home" width="239" height="46" border="0" class="registrarlogo" /></a>
+  <form method='get' action='http://search.mit.edu/search'>
+    <a href="http://web.mit.edu/registrar/index.html">Registrar Home</a>  |  Registrar Search:
+    <input name="q" type="text" class="searchfield" size="17" />
+    <input name="btnG" type="image" class="submit" value="submit" src="/icns/RegGo.gif"
+alt="Search" align="middle" />
+    <input type='hidden' name='site' value='mit'/>
+    <input type='hidden' name='client' value='mit'/>
+    <input type='hidden' name='proxystylesheet' value='http://web.mit.edu/registrar/styles/google-registrar.xsl'/>
+    <input type='hidden' name='output' value='xml_no_dtd'/>
+    <input type='hidden' name='as_dt' value='i'/>
+    <input type='hidden' name='as_sitesearch' value='web.mit.edu/registrar' />
+  </form>
+  &nbsp;<br>&nbsp;
+    <a href="http://picker.mit.edu/" target="picker">MIT Course Picker</a> |  
+  <a href="http://planner.mit.edu/" target="planner">MIT Course Planner</a> <!--arc-->
+  &nbsp;&nbsp;&nbsp;&nbsp;
+ </div>
+</div>
+<div id="contentleft">
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+<tr><td align="center" valign="top"><b>
+<a href="index.cgi">Home</a>
+ | <a href="extsearch.cgi">Subject Search</a>
+ | <a href="help.html">Help</a>
+ | <a href="symbols.html">Symbols Help</a>
+ | <a href="help.html#prereg">Pre-Reg Help</a><!--arc-->
+ | <a href="http://web.mit.edu/registrar/www/schedules/exams.html">Final Exam Schedule</a><!--arc-->
+</b></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>
+<h1 align="center">Health Sciences and Technology<br>IAP/Spring
+2017</h1><div id="contentmini"><b><a href="http://hst.mit.edu"><i>HST Home</i></a>&nbsp; &nbsp; <a href="./search.cgi?search=HST&when=J"><i>IAP only</i></a>&nbsp; &nbsp; <a href="https://sisapp.mit.edu/ose-rpt/subjectEvaluationSearch.htm?departmentId=+HST&search=Search"><i>Evaluations</i></a> <a href="http://ist.mit.edu/certificates"><i>(Certificates Required)</i></a></b><hr width="90%" align="center"><table align="center"><tr><td valign=middle><img src="/icns/purple1.gif" width="20" height="20" alt="left arrow"></td><td valign=middle><b> | </b></td><td valign=middle align=center><b><a href="mHSTa.html">HST.00-HST.599</a></b></td><td valign=middle><b> | </b></td><td valign=middle align=center><b>HST.600-HST.999 plus UROP and Thesis</b></td><td valign=middle><b> | </b></td><td valign=middle><img src="/icns/purple2.gif" width="20" height="20" alt="right arrow"></td></tr></table></div>
+<hr width="90%" align="center">
+<table border=0 width="100%"><tr><td>
+<a name="HST.712"></a>
+<p><h3>HST.712[J] Laboratory on the Physiology, Acoustics, and Perception of Speech
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Not offered academic year 2016-2017" title="Not offered academic year 2016-2017" src="/icns/nooffer.gif"><img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)
+<br>(Same subject as <A HREF="m6b.html#6.542">6.542[J]</A>, <A HREF="m24b.html#24.966">24.966[J]</A>)
+<br>Prereq: Permission of instructor
+<br>Units: 2-2-8
+<br><img alt="______" src="/icns/hr.gif">
+<br>Experimental investigations of speech processes. Topics: measurement of articulatory movements; measurements of pressures and airflows in speech production; computer-aided waveform analysis and spectral analysis of speech; synthesis of speech; perception and discrimination of speechlike sounds; speech prosody; models for speech recognition; speech development; and other topics. Recommended prerequisites: 6.002 or 18.03.
+<br><I>L. D. Braida, S. Shattuck-Hufnagel</I><br>
+</p><!--end-->
+<a name="HST.714"></a>
+<p><h3>HST.714 Acoustics, Production and Perception of Speech
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)
+<br>Prereq: <a href="m8a.html#8.03">8.03</a>, <a href="m6a.html#6.003">6.003</a>; or permission of instructor
+<br>Units: 4-0-8
+<br>URL: <a href="http://web.mit.edu/6.551j/www/">http://web.mit.edu/6.551j/www/</a>
+<br><img alt="______" src="/icns/hr.gif">
+<br>Reviews the physical processes involved in the production and propagation of sound, and acoustics related to hearing.  Particular attention to how the acoustics and mechanics of the speech and auditory system define what sounds we are capable of producing and how we sense sound. Introduces acoustic theory of speech production, digital speech processing, and neural mechanisms of speech production and perception. Exposes students to applications around acoustics, recognition, and speech disorders. Also introduces analysis of various types of sounds. Includes take-home laboratory assignments and discussions of classic papers.
+<br><I>S. S. Ghosh, H. H. Nakajima</I><br>
+</p><!--end-->
+<a name="HST.716"></a>
+<p><h3>HST.716[J] Signal Processing by the Auditory System: Perception
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Not offered academic year 2016-2017" title="Not offered academic year 2016-2017" src="/icns/nooffer.gif"><img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)
+<br>(Same subject as <A HREF="m6b.html#6.552">6.552[J]</A>)
+<br>Prereq: <a href="m6a.html#6.003">6.003</a>; <a href="m6a.html#6.041B">6.041B</a> or <a href="m6b.html#6.431B">6.431B</a>; or permission of instructor
+<br>Units: 3-0-9
+<br><img alt="______" src="/icns/hr.gif">
+<br>Studies information processing performance of the human auditory system in relation to current physiological knowledge. Examines mathematical models for the quantification of auditory-based behavior and the relation between behavior and peripheral physiology, reflecting the tono-topic organization and stochastic responses of the auditory system. Mathematical models of psychophysical relations, incorporating quantitative knowledge of physiological transformations by the peripheral auditory system.
+<br><I>L. D. Braida</I><br>
+</p><!--end-->
+<a name="HST.718"></a>
+<p><h3>HST.718 Anatomy of Speech and Hearing
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">)
+<br>Prereq: <a href="./search.cgi?search=&cred=b" title="7.012, 7.013, 7.014, 7.015, 7.016">Biology (GIR)</a>, permission of instructor
+<br>Units: 2-2-2
+<br><img alt="______" src="/icns/hr.gif">
+<br>Studies the anatomy of the human head and neck, focusing on structures involved in speech and hearing. Covers general organization of the nervous system and control of the peripheral structures. Involves dissection of a human cadaver, examination of brain specimens, and analysis of cross-sectional radiographic images. Limited to 12; undergraduates admitted based on seniority.
+<br><I>B. C. Fullerton</I><br>No required or recommended textbooks
+</p><!--end-->
+<a name="HST.721"></a>
+<p><h3>HST.721 The Biology of the Inner Ear
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)
+<br>Prereq: Permission of instructor
+<br>Units: 3-1-8
+<br><img alt="______" src="/icns/hr.gif">
+<br>Reviews the normal biology, biophysics, physiology and morphology of the inner ear and auditory nerve, as well as the mechanisms underlying sensorineural hearing loss.
+<br><I>M. C. Liberman, S. F. Maison</I><br>
+</p><!--end-->
+<a name="HST.723"></a>
+<p><h3>HST.723[J] Neural Coding and Perception of Sound
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>(Same subject as <A HREF="m9a.html#9.285">9.285[J]</A>)
+<br>Prereq: Permission of instructor
+<br>Units: 3-1-8
+<br>URL: <a href="http://web.mit.edu/hst.723/www/">http://web.mit.edu/hst.723/www/</a>
+<br>Meets 1/25-5/11. Final exam at harvard. <b>Lecture:</b> <i>MW9.30-11.30</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=MEEI">MEEI-4TH</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Neural structures and mechanisms mediating the detection, localization, and recognition of sounds. Discussion of how acoustic signals are coded by auditory neurons, the impact of these codes on behavioral performance, and the circuitry and cellular mechanisms underlying signal transformations. Topics include temporal coding, neural maps and feature detectors, learning and plasticity, and feedback control. General principles are conveyed by theme discussions of auditory masking, sound localization, musical pitch, cochlear implants, and auditory scene analysis. Follows Harvard FAS calendar.
+<br><I>B. Delgutte, M. C. Brown, J. McDermott, D. Polley</I><br>No required or recommended textbooks
+</p><!--end-->
+<a name="HST.724"></a>
+<p><h3>HST.724 Clinical Aspects of Speech and Hearing
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>Prereq: <a href="mHSTb.html#HST.718">HST.718</a> or permission of instructor
+<br>Units: 5-5-2
+<br><b>Lecture:</b> <i>MW EVE (5-7 PM)</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=MEEI">MEEI</a>) <b>Lab:</b> <i>MTWRF8-5</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=MEEI">MEEI</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Clinical approach to speech and hearing disorders as practiced by physicians, audiologists, speech clinicians,rehabilitation specialists, pathologists, and bioengineers. Includes observation of patient care in the clinic and operating room;laboratory experience in audiology, voice and speech evaluation, evaluation of balance disorders; lectures and discussion groups. Prior completion of HST.714 and HST.721 is recommended.
+<br><I>K. Stankovic</I><br>No textbook information available
+</p><!--end-->
+<a name="HST.725"></a>
+<p><h3>HST.725 Music Perception and Cognition
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)<br>Not offered regularly; consult department
+<br>Prereq: <a href="mHSTb.html#HST.723">HST.723</a> or permission of instructor
+<br>Units: 4-0-8
+<br><img alt="______" src="/icns/hr.gif">
+<br>Survey of perceptual and cognitive aspects of the psychology of music, with special emphasis on underlying neurocomputational representations and mechanisms. Systematically explores basic dimensions of hearing (pitch, timbre, consonance, loudness) and the time sense (duration, temporal pattern) that form our perception of tonal quality, melody, harmony, meter, and rhythm in music. Examines mechanisms responsible for separation of multiple voices/instruments (polyphony), and for melodic and rhythmic grouping of events (musical phrase structure). Special topics include comparative, evolutionary, and developmental psychology of music; biological vs. cultural influences; Gestaltist, associationist, and schema-based theories; music vs. speech perception; music vs. language cognition; music and cortical function, music therapy, and neural basis of music performance.
+<br><I>P. Cariani</I><br>
+</p><!--end-->
+<a name="HST.728"></a>
+<p><h3>HST.728[J] Automatic Speech Recognition
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Not offered academic year 2017-2018" title="Not offered academic year 2017-2018" src="/icns/nonext.gif"><img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>(Same subject as <A HREF="m6b.html#6.345">6.345[J]</A>)
+<br>Prereq: <a href="m6a.html#6.011">6.011</a>, <a href="m6a.html#6.036">6.036</a>
+<br>Units: 3-1-8
+<br><b>Lecture:</b> <i>MW9.30-11</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=32">32-144</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Introduces the rapidly developing fields of automatic speech recognition and spoken language processing. Topics include acoustic theory of speech production, acoustic-phonetics, signal representation, acoustic and language modeling, search, hidden Markov modeling, deep neural networks, system robustness, adaptation, and other related speech processing topics. Lecture material intersperses theory with practice.  Includes problem sets, laboratory exercises, and opened-ended term project.
+<br><I>V. W. Zue, J. R. Glass</I><br><a href="javascript:PopUpHelp('http://eduapps.mit.edu/textbook/books.html?Term=2017SP&Subject=HST.728&Source=6.345');" >Textbooks (Spring 2017)</a></font>
+</p><!--end-->
+<a name="HST.730"></a>
+<p><h3>HST.730 Molecular Biology of the Auditory System
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Not offered academic year 2016-2017" title="Not offered academic year 2016-2017" src="/icns/nooffer.gif"><img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)
+<br>Prereq: <a href="./search.cgi?search=&cred=b" title="7.012, 7.013, 7.014, 7.015, 7.016">Biology (GIR)</a>
+<br>Units: 3-0-9
+<br><img alt="______" src="/icns/hr.gif">
+<br>Focuses on molecular approaches to cochlear development and function, based on readings and discussion of research literature. Lectures by course director and local experts in the field. Includes discussion of gene expression, cell fate determination, deafness mutations, stem cells and regeneration of the cochlea.
+<br><I>A. Edge</I><br>
+</p><!--end-->
+<a name="HST.780"></a>
+<p><h3>HST.780 Independent Study in Speech and Hearing Sciences
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">, <img width=16 height=16 align="bottom" alt="Summer" title="Summer" src="/icns/summer.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom">
+<br>Prereq: Permission of instructor
+<br>Units arranged
+<br>TBA. <!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Opportunity for independent study of speech and hearing sciences under regular supervision by an SHBT faculty member. Projects require prior approval, as well as a substantive paper. Minimum 12 units required.
+<br>Consult L. D. Braida<br>No required or recommended textbooks
+</p><!--end-->
+<a name="HST.914"></a>
+<p><h3>HST.914[J] Frontiers in Therapeutics and Drug Delivery
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)<br>Not offered regularly; consult department
+<br>(Same subject as <A HREF="m10a.html#10.644">10.644[J]</A>)
+<br>Prereq: <a href="m7a.html#7.05">7.05</a> or permission of instructor
+<br>Units: 3-0-6
+<br><img alt="______" src="/icns/hr.gif">
+<br>Provides an introduction to pharmaceutics and conventional oral, injected, transdermal and inhaled drug delivery systems. Includes studies of drug delivery devices and systems, e.g., stents, pumps, depo systems, responsive drug delivery systems, and biological/cell based therapies. Covers nano- and micro drug delivery systems, including polymer-drug conjugates, modified proteins, liposomes and polymer nanoparticles, viral and non-viral genetic therapy, and microencapsulated vaccines. Discusses reviews and current technology. Students taking graduate version complete additional assignments. Limited to 40.
+<br><I>D. G. Anderson</I><br>
+</p><!--end-->
+<a name="HST.916"></a>
+<p><h3>HST.916[J] Case Studies and Strategies in Drug Discovery and Development
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>(Same subject as <A HREF="m7a.html#7.549">7.549[J]</A>, <A HREF="m15a.html#15.137">15.137[J]</A>, <A HREF="m20a.html#20.486">20.486[J]</A>)
+<br>Prereq: None
+<br>Units: 2-0-4
+<br><b>Lecture:</b> <i>M EVE (4-6 PM)</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=56">56-614</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Aims to develop appreciation for the stages of drug discovery and development, from target identification, to the submission of preclinical and clinical data to regulatory authorities for marketing approval. Following introductory lectures on the process of drug development, students working in small teams analyze how one of four new drugs or drug candidates traversed the discovery/development landscape. For each case, an outside expert from the sponsoring drug company or pivotal clinical trial principal investigator provides guidance and critiques the teams' presentations to the class.
+<br><I>S. R. Tannenbaum, A. J. Sinskey, A. W. Wood</I><br>No textbook information available
+</p><!--end-->
+<a name="HST.918"></a>
+<p><h3>HST.918[J] Economics of the Health Care Industries
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Not offered academic year 2016-2017" title="Not offered academic year 2016-2017" src="/icns/nooffer.gif"><img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>(Same subject as <A HREF="m15a.html#15.141">15.141[J]</A>)
+<br>Prereq: Permission of instructor
+<br>Units: 3-0-6
+<br><img alt="______" src="/icns/hr.gif">
+<br>Focuses on economic issues in various health care and allied industries, such as the pharmaceutical, biotechnology, medical device, vaccine and diagnostic sectors. Addresses differences between health care and other industries; regulatory issues, in the US and globally, that involve establishment of the efficacy and cost-effectiveness of treatments; managing those who manage research and development; policies to incentivize research and development for neglected tropical diseases; strategic issues in global pricing and marketing; use of e-commerce and information technology; personalized/stratified medicines and diagnostic biomarkers; and formation and management of various alliances. Visiting speakers from academia, government, NGOs, and industry. Assignments include 4 to 6 essays.
+<br><I>J. Doyle</I><br>
+</p><!--end-->
+<a name="HST.920"></a>
+<p><h3>HST.920[J] Principles and Practice of Drug Development
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)
+<br>(Same subject as <A HREF="m7a.html#7.547">7.547[J]</A>, <A HREF="m10a.html#10.547">10.547[J]</A>, <A HREF="m15a.html#15.136">15.136[J]</A>, <A HREF="mIDSa.html#IDS.620">IDS.620[J]</A>)
+<br>Prereq: Permission of instructor
+<br>Units: 3-0-6
+<br>URL: <a href="http://hst-hu-mit.mit.edu/courses/HST920">http://hst-hu-mit.mit.edu/courses/HST920</a>
+<br><img alt="______" src="/icns/hr.gif">
+<br>Description and critical assessment of the major issues and stages of developing a pharmaceutical or biopharmaceutical. Drug discovery, preclinical development, clinical investigation, manufacturing and regulatory issues considered for small and large molecules. Economic and financial considerations of the drug development process. Multidisciplinary perspective from faculty in clinical; life; and management sciences; as well as industry guests.
+<br><I>T. J. Allen, C. L. Cooney, S. N. Finkelstein, A. J. Sinskey, G. K. Raju</I><br>
+</p><!--end-->
+<a name="HST.928"></a>
+<p><h3>HST.928[J] Engineering Health: Understanding and Designing Affordable Health Diagnostics
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Not offered academic year 2016-2017" title="Not offered academic year 2016-2017" src="/icns/nooffer.gif"><img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)
+<br>(Same subject as <A HREF="mMASa.html#MAS.534">MAS.534[J]</A>)
+<br>Prereq: None
+<br>Units: 3-1-8
+<br><img alt="______" src="/icns/hr.gif">
+<br>Designing and building novel health diagnostics and sensors while learning the fundamentals of rapid prototyping, applied optics, signals processing, imaging and other advanced sensing modalities. Students work in teams with a physician and technical mentor to design and construct a cutting edge health diagnostic or device. The best projects may be continued in the Spring semester through a clinical trials and ventures program reaching early trials by the end of the school year.
+<br><I>R. Raskar</I><br>
+</p><!--end-->
+<a name="HST.929"></a>
+<p><h3>HST.929[J] Engineering Health: Designing and Deploying Affordable Health Diagnostics and Therapeutics
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)<br>Not offered regularly; consult department
+<br>(Same subject as <A HREF="mMASa.html#MAS.535">MAS.535[J]</A>)
+<br>Prereq: None
+<br>Units: 6-0-0
+<br><img alt="______" src="/icns/hr.gif">
+<br>Students design and construct a cutting-edge health diagnostic or device and explore opportunities to test and deploy it. Through structured interactions with physicians, and technical rounds at local hospitals, students incorporate user-centric design into their devices and engage with the health community towards implementation.  Provides exposure to clinical trials, the FDA, user experience, intellectual property, and entrepreneurship.
+<br><I>R. Raskar</I><br>
+</p><!--end-->
+<a name="HST.934"></a>
+<p><h3>HST.934[J] Introduction to Global Medicine:  Bioscience, Technologies, Disparities, Strategies
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>(Same subject as <A HREF="m21Aa.html#21A.359">21A.359[J]</A>, <A HREF="mSTSb.html#STS.449">STS.449[J]</A>)
+<br>Prereq: None
+<br>Units: 3-0-6 [P/D/F]
+<br><b>Lecture:</b> <i>M1-4</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=1">1-135</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Explores basic themes in social medicine via a specific examination of issues in global medicine. The course takes as its challenge to understand new paradigms for global health that focus on providing complex medical services to treat complicated health conditions (e.g., multi-drug resistant TB, HIV/AIDS, and mental health problems) in low-resource settings. Special attention to the development of new technologies or adapting existing technologies in ways that enable new solutions to global health problems, as well as overcoming barriers to translation of medical technologies for use in settings of great need. Addresses classic themes of social inequalities and health disparities, and issues such as patenting and the development and delivery of pharmaceuticals or other biotechnologies in international context. Presentations by Harvard faculty involved in global health, basic or clinical research with a global reach, or medical humanitarian activities, in addition to class discussion.
+<br><I>M. Fischer, E. James, M. J. Good</I><br>No required or recommended textbooks
+</p><!--end-->
+<a name="HST.936"></a>
+<p><h3>HST.936 Global Health Informatics to Improve Quality of Care
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>(Subject meets with <A HREF="mHSTb.html#HST.937">HST.937</A>, <A HREF="mHSTb.html#HST.938">HST.938</A>)
+<br>Prereq: None
+<br>Units: 2-0-1
+<br><b>Lecture:</b> <i>F9-11</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=E25">E25-117</a>) <b>Lab:</b> <i>F11-1</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=E25">E25-117</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Addresses issues related to how health information systems can improve the quality of care in resource poor settings.  Discusses key challenges and real problems; design paradigms and approaches; and system evaluation and the challenges of measuring impact.  Weekly lectures led by internationally recognized experts in the field. Students taking HST.936, HST.937 and HST.938 attend common lectures; assignments and laboratory time differ.  HST.936 has no laboratory.
+<br><I>K. Paik, L. Celi, A. Dagan</I><br>No required or recommended textbooks
+</p><!--end-->
+<a name="HST.937"></a>
+<p><h3>HST.937 Global Health Informatics to Improve Quality of Care
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>(Subject meets with <A HREF="mHSTb.html#HST.936">HST.936</A>, <A HREF="mHSTb.html#HST.938">HST.938</A>)
+<br>Prereq: None
+<br>Units: 2-2-2
+<br><b>Lecture:</b> <i>F9-11</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=E25">E25-117</a>) <b>Lab:</b> <i>F11-1</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=E25">E25-117</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Addresses issues related to how health information systems can improve the quality of care in resource poor settings. Discusses key challenges and real problems; design paradigms and approaches; and system evaluation and the challenges of measuring impact. Weekly lectures led by internationally recognized experts in the field. Students taking HST.936, HST.937 and HST.938 attend common lectures; assignments and laboratory time differ.  HST.936 has no laboratory.
+<br><I>K. Paik, L. Celi, A. Dagan</I><br>No required or recommended textbooks
+</p><!--end-->
+<a name="HST.938"></a>
+<p><h3>HST.938 Global Health Informatics to Improve Quality of Care
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>(Subject meets with <A HREF="mHSTb.html#HST.936">HST.936</A>, <A HREF="mHSTb.html#HST.937">HST.937</A>)
+<br>Prereq: None
+<br>Units: 2-2-8
+<br><b>Lecture:</b> <i>F9-11</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=E25">E25-117</a>) <b>Lab:</b> <i>F11-1</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=E25">E25-117</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Addresses issues related to how health information systems can improve the quality of care in resource poor settings. Discusses key challenges and real problems; design paradigms and approaches; and system evaluation and the challenges of measuring impact. Weekly lectures led by internationally recognized experts in the field. Students taking HST.936, HST.937 and HST.938 attend common lectures; assignments and laboratory time differ.  HST.936 has no laboratory.
+<br><I>K. Paik, L. Celi, A. Dagan</I><br>No required or recommended textbooks
+</p><!--end-->
+<a name="HST.940"></a>
+<p><h3>HST.940[J] Bioinformatics: Principles, Methods and Applications
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)<br>Not offered regularly; consult department
+<br>(Same subject as <A HREF="m10a.html#10.555">10.555[J]</A>)
+<br>Prereq: Permission of instructor
+<br>Units: 3-0-9
+<br><img alt="______" src="/icns/hr.gif">
+<br>Introduction to bioinformatics, the collection of principles and computational methods used to upgrade the information content of biological data generated by genome sequencing, proteomics, and cell-wide physiological measurements of gene expression and metabolic fluxes. Fundamentals from systems theory presented to define modeling philosophies and simulation methodologies for the integration of genomic and physiological data in the analysis of complex biological processes. Various computational methods address a broad spectrum of problems in functional genomics and cell physiology. Application of bioinformatics to metabolic engineering, drug design, and biotechnology also discussed.
+<br><I>Gr. Stephanopoulos, I. Rigoutsos</I><br>
+</p><!--end-->
+<a name="HST.950"></a>
+<p><h3>HST.950[J] Biomedical Computing
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Not offered academic year 2016-2017" title="Not offered academic year 2016-2017" src="/icns/nooffer.gif"><img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)
+<br>(Same subject as <A HREF="m6c.html#6.872">6.872[J]</A>)
+<br>Prereq: <a href="m6a.html#6.034">6.034</a>, <a href="m6a.html#6.036">6.036</a>, or permission of instructor
+<br>Units: 3-0-9
+<br><img alt="______" src="/icns/hr.gif">
+<br>Analyzes computational needs of clinical medicine, reviews systems and approaches that have been used to support those needs, and the relationship between clinical data and gene and protein measurements to support precision medicine. Topics include the nature of clinical data, architecture and design of healthcare information systems, privacy and security issues, medical expert systems, predictive models and machine learning from big data in healthcare, and an introduction to bioinformatics. Case studies and guest lectures describe contemporary institutions, systems, and research projects. Term project using large clinical and genomic data sets integrates classroom topics.
+<br><I>G. Alterovitz, P. Szolovits</I><br>
+</p><!--end-->
+<a name="HST.953"></a>
+<p><h3>HST.953 Secondary Analysis of Electronic Health Records
+<br>(New)
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)
+<br>Prereq: Permission of instructor
+<br>Units: 3-0-9
+<br><img alt="______" src="/icns/hr.gif">
+<br>A guide for data scientists, engineers, and clinicians who are interested in performing retrospective research using data from electronic health records.  Instruction provided in clinical decision-making and secondary use of clinical data, using the Medical Information Mart for Intensive Care (MIMIC) database. Covers steps in parsing a clinical question into a study design and methodology for data analysis and interpretation.  Activities include review of case studies using the MIMIC database and a team project. Student teams choose a question and clinician to work with for their project. Teams meet weekly with clinicians at the hospitals at arranged time.
+<br><I>L. A. Celi, J. Raffa</I><br>
+</p><!--end-->
+<a name="HST.962"></a>
+<p><h3>HST.962 Medical Product Development and Translational Biomedical Research
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">); first half of term
+<br>Prereq: Permission of instructor
+<br>Units: 1-0-3
+<br>URL: <a href="http://web.mit.edu/hst962/www/index.html">http://web.mit.edu/hst962/www/index.html</a>
+<br>Ends Mar 24. <b>Lecture:</b> <i>T1-2.30</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=56">56-167</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Explores the translation of basic biomedical science into therapies. Topics span pharmaceutical, medical device, and diagnostics development. Exposes students to strategic assessment of clinical areas, product comparison, regulatory risk assessment by indication, and rational safety program design. Develops quantitative understanding of statistics and trial design.
+<br><I>M. Cima</I><br>No required or recommended textbooks
+</p><!--end-->
+<a name="HST.971"></a>
+<p><h3>HST.971[J] Strategic Decision Making in the Life Sciences
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>(Same subject as <A HREF="m15b.html#15.363">15.363[J]</A>)
+<br>Prereq: None
+<br>Units: 3-0-6
+<br><b>Lecture:</b> <i>T EVE (5.30-8.30 PM)</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=E51">E51-315</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Surveys key strategic decisions faced by managers, investors and scientists at each stage in the value chain of the life science industry. Aims to develop students' ability to understand and effectively assess these strategic challenges. Focuses on the biotech sector, with additional examples from the pharmaceutical and medical device sectors. Includes case studies, analytical models, and detailed quantitative analysis. Intended for students interested in building a life science company or working in the sector as a manager, consultant, analyst, or investor. Provides analytical background to the industry for biological and biomedical scientists, engineers and physicians with an interest in understanding the commercial dynamics of the life sciences or the commercial potential of their research.
+<br><I>J. Fleming, A. Zarur</I><br>No textbook information available
+</p><!--end-->
+<a name="HST.972"></a>
+<p><h3>HST.972[J] Medicine for Managers and Entrepreneurs Proseminar
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>(Same subject as <A HREF="m15a.html#15.132">15.132[J]</A>)
+<br>Prereq: None
+<br>Units: 3-0-6
+<br><b>Lecture:</b> <i>R EVE (4-7 PM)</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=E62">E62-250</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Provides students with basic business-oriented clinical and technological knowledge related to health, healthcare and medicine through engagements with clinical and industry experts. Each session focuses on a specific field of medicine. Speakers include a basic science and/or clinical expert and a CEO or other senior executive involved in cutting-edge innovation in each area.
+<br><I>R. J. Cohen</I><br>No required or recommended textbooks
+</p><!--end-->
+<a name="HST.973"></a>
+<p><h3>HST.973[J] Evaluating a Biomedical Business Concept
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">)
+<br>(Same subject as <A HREF="m15a.html#15.124">15.124[J]</A>)
+<br>Prereq: None
+<br>Units: 3-0-6
+<br><img alt="______" src="/icns/hr.gif">
+<br>Involves critical analysis of new biomedical business ideas. Inventors or principals of early stage companies present their ideas and provide background material including scientific papers and patents. Student teams interact with the companies, potential customers, other stakeholders and experts to develop a series of analyses concerning the critical issues. Company and student presentations supplemented by topic-specific lectures and presentations by biomedical entrepreneurs. Enrollment limited.
+<br><I>R. J. Cohen</I><br>
+</p><!--end-->
+<a name="HST.977"></a>
+<p><h3>HST.977[J] Critical Reading and Technical Assessment of Biomedical Information
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">); first half of term
+<br>(Same subject as <A HREF="m15a.html#15.122">15.122[J]</A>)
+<br>Prereq: SB degree in Biological Science or permission of instructor
+<br>Units: 1-0-2
+<br>Ends Mar 24. <b>Lecture:</b> <i>M EVE (6.30-8.30 PM)</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=E25">E25-101</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Gain experience in critical reading of scientific literature,  including patents, journal articles and FDA labels, with an emphasis on analyzing clinical controversies and emerging technologies in subject areas that have been or could become sources of entrepreneurial activity. Students required to analyze a variety of topics in the scientific literature, including screening for and cost-effectiveness of early detection of cancer, therapeutic opportunities in oncology, evaluation of immunotoxins and antibody therapies, and new prospects for the treatment of autoimmune disorders. To support the discussion of these topics, outside experts may be invited to participate as facilitators.
+<br><I>S. Lapidus, J. Karp</I><br>No required or recommended textbooks
+</p><!--end-->
+<a name="HST.978"></a>
+<p><h3>HST.978[J] Healthcare Ventures
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">)
+<br>(Same subject as <A HREF="m15b.html#15.367">15.367[J]</A>)
+<br>Prereq: <a href="m15c.html#15.910">15.910</a>; <a href="m15b.html#15.390">15.390</a> or <a href="m10a.html#10.391">10.391</a> or <a href="m10a.html#10.579">10.579</a>
+<br>Units: 3-0-9
+<br><b>Lecture:</b> <i>R EVE (5.30-8.30 PM)</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=E62">E62-233</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Focuses on entrepreneurship, with emphasis on startups bridging digital health and high-tech. Explores US and global macro trends and case studies. Features lectures by leading healthcare entrepreneurs and venture investors, and provides practical experience in networking through team projects. Evaluation based on team participation and assignments, including two team presentations. Video conference facilities provided to facilitate remote participation by Executive MBA and traveling students. Enrollment by application only. Enrollment by application only
+<br><I>M. Gray, Z. Chu</I><br>No textbook information available
+</p><!--end-->
+<a name="HST.THG"></a>
+<p><h3>HST.THG Graduate Thesis
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">, <img width=16 height=16 align="bottom" alt="Summer" title="Summer" src="/icns/summer.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom">
+<br>Prereq: Permission of instructor
+<br>Units arranged
+<br>TBA. <!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Program of research leading to the writing of a PhD or ScD thesis or an HST SM thesis; to be arranged by the student and an appropriate MIT faculty advisor.
+<br><I>HST Faculty</I><br>No required or recommended textbooks
+</p><!--end-->
+<a name="HST.UR"></a>
+<p><h3>HST.UR Undergraduate Research in Health Sciences and Technology
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">, <img width=16 height=16 align="bottom" alt="Summer" title="Summer" src="/icns/summer.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom">
+<br>Prereq: None
+<br>Units arranged [P/D/F]
+<br>TBA. <!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>No required or recommended textbooks
+<a name="HST.URG"></a>
+<h3>HST.URG Undergraduate Research in Health Sciences and Technology
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">, <img width=16 height=16 align="bottom" alt="Summer" title="Summer" src="/icns/summer.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom">
+<br>Prereq: None
+<br>Units arranged
+<br>TBA. <!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Extended participation in the work of a faculty member or research group. Research is arranged by mutual agreement between the student and a member of the faculty of the Harvard-MIT Division of Health Sciences and Technology, and may continue over several terms. Registration requires submission of a written proposal, signed by the faculty supervisor. A summary report must be submitted at the end of each term.
+<br><I>J. Greenberg</I><br>No required or recommended textbooks (IAP 2017); Textbooks arranged individually (Spring 2017)
+</p><!--end-->
+<a name="HST.S14"></a><a name="HST.S15"></a>
+<p><h3>HST.S14-HST.S15 Special Subject: Health Sciences and Technology
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">, <img width=16 height=16 align="bottom" alt="Summer" title="Summer" src="/icns/summer.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom"><br>Not offered regularly; consult department
+<br>Prereq: None
+<br>Units arranged
+<br><img alt="______" src="/icns/hr.gif">
+<br>
+<a name="HST.S16"></a><a name="HST.S17"></a>
+<h3>HST.S16-HST.S17 Special Subject: Health Sciences and Technology
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">, <img width=16 height=16 align="bottom" alt="Summer" title="Summer" src="/icns/summer.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom"><br>Not offered regularly; consult department
+<br>Prereq: None
+<br>Units arranged [P/D/F]
+<br><b>HST.S16:</b> Ends Mar 24. <b>Lecture:</b> <i>M1-4</i> (HMS TBD)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br><b>HST.S16:</b> No textbook information available
+<a name="HST.S18"></a><a name="HST.S19"></a>
+<h3>HST.S18-HST.S19 Special Subject: Health Sciences and Technology
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">, <img width=16 height=16 align="bottom" alt="Summer" title="Summer" src="/icns/summer.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom"><br>Not offered regularly; consult department
+<br>Prereq: Permission of instructor
+<br>Units arranged
+<br><img alt="______" src="/icns/hr.gif">
+<br>Opportunity for group study of advanced subjects related to health sciences and technology not otherwise included in the curriculum. Offerings are initiated by HST faculty on an ad hoc basis subject to program approval. Prerequisites may vary by topic; consult faculty at time of offering.
+<br><I>HST Faculty</I><br>
+</p><!--end-->
+<a name="HST.S46"></a>
+<p><h3>HST.S46 Special Subject: Health Sciences and Technology
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom">
+<br>Prereq: None
+<br>Units arranged [P/D/F]
+<br><img alt="______" src="/icns/hr.gif">
+<br>Group study of subjects related to health sciences and technology not otherwise included in the curriculum. Prerequisites may vary by topic; consult faculty at time of offering.
+<br><I>B. Walker, H. Heller</I><br>No required or recommended textbooks
+<a name="HST.S47"></a>
+<p><h3>HST.S47 Special Subject: Health Sciences and Technology
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom">
+<br>Prereq: None
+<br>Units arranged [P/D/F]
+<br><img alt="______" src="/icns/hr.gif">
+<br>Group study of subjects related to health sciences and technology not otherwise included in the curriculum. Prerequisites may vary by topic; consult faculty at time of offering.
+<br><I>HST Faculty</I><br>No required or recommended textbooks
+<a name="HST.S48"></a><a name="HST.S49"></a>
+<h3>HST.S48-HST.S49 Special Subject: Health Sciences and Technology
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Undergrad" title="Undergrad" src="/icns/under.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">, <img width=16 height=16 align="bottom" alt="Summer" title="Summer" src="/icns/summer.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom"><br>Not offered regularly; consult department
+<br>Prereq: None
+<br>Units arranged
+<br><img alt="______" src="/icns/hr.gif">
+<br>Group study of subjects related to health sciences and technology not otherwise included in the curriculum. Prerequisites may vary by topic; consult faculty at time of offering.
+<br><I>HST Faculty</I><br>
+</p><!--end-->
+<a name="HST.S52"></a>
+<p><h3>HST.S52 Special Subject: Medical Engineering and Medical Physics
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">, <img width=16 height=16 align="bottom" alt="Summer" title="Summer" src="/icns/summer.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom"><br>Not offered regularly; consult department
+<br>Prereq: Permission of instructor
+<br>Units arranged
+<br><img alt="______" src="/icns/hr.gif">
+<br>Opportunity for group study of advanced subjects related to the Medical Engineering and Medical Physics Program not otherwise included in the curriculum. Offerings are initiated by MEMP faculty on an ad hoc basis subject to program approval. Prerequisites may vary by topic; consult faculty at time of offering.
+<br><I>HST Faculty</I><br>
+</p><!--end-->
+<a name="HST.S53"></a>
+<p><h3>HST.S53 Special Subject: Medical Engineering and Medical Physics
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom">
+<br>Prereq: None
+<br>Units arranged
+<br><b>Lecture:</b> <i>W2.30-4</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=56">56-154</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Opportunity for group study of advanced subjects related to the Medical Engineering and Medical Physics Program not otherwise included in the curriculum. Offerings are initiated by MEMP faculty on an ad hoc basis subject to program approval. Prerequisites may vary by topic; consult faculty at time of offering.
+<br><I>D. Sontag</I><br>No required or recommended textbooks
+</p><!--end-->
+<a name="HST.S54"></a>
+<p><h3>HST.S54 Special Subject: Medical Engineering and Medical Physics
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom"><br>Not offered regularly; consult department
+<br>Prereq: None
+<br>Units arranged [P/D/F]
+<br><img alt="______" src="/icns/hr.gif">
+<br>Opportunity for group study of advanced subjects related to the Medical Engineering and Medical Physics Program not otherwise included in the curriculum. Offerings are initiated by MEMP faculty on an ad hoc basis subject to program approval. Prerequisites may vary by topic; consult faculty at time of offering.
+<br><I>HST Faculty</I><br>
+</p><!--end-->
+<a name="HST.S55"></a>
+<p><h3>HST.S55 Special Subject: Medical Engineering and Medical Physics
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom">
+<br>Prereq: None
+<br>Units arranged [P/D/F]
+<br><img alt="______" src="/icns/hr.gif">
+<br>Opportunity for group study of advanced subjects related to the Medical Engineering and Medical Physics Program not otherwise included in the curriculum. Offerings are initiated by MEMP faculty on an ad hoc basis subject to program approval. Prerequisites may vary by topic; consult faculty at time of offering.
+<br><I>J. Collins</I><br>No required or recommended textbooks
+</p><!--end-->
+<a name="HST.S56"></a><a name="HST.S57"></a>
+<p><h3>HST.S56-HST.S57 Special Subject: Medical Engineering and Medical Physics
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">, <img width=16 height=16 align="bottom" alt="Summer" title="Summer" src="/icns/summer.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom"><br>Not offered regularly; consult department
+<br>Prereq: Permission of instructor
+<br>Units arranged [P/D/F]
+<br><img alt="______" src="/icns/hr.gif">
+<br>
+<a name="HST.S58"></a>
+<p><h3>HST.S58 Special Subject: Medical Engineering and Medical Physics
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom">
+<br>Prereq: Permission of instructor
+<br>Units arranged
+<br>URL: <a href="https://hst.mit.edu/academics/course/hst-s58">https://hst.mit.edu/academics/course/hst-s58</a>
+<br><b>Lecture:</b> <i>T3.30-5</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=66">66-144</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Opportunity for group study of advanced subjects related to the Medical Engineering and Medical Physics Program not otherwise included in the curriculum. Offerings are initiated by MEMP faculty on an ad hoc basis subject to program approval. Prerequisites may vary by topic; consult faculty at time of offering.
+<br><I>A. Gupta</I><br>No textbook information available
+</p><!--end-->
+<a name="HST.S59"></a>
+<p><h3>HST.S59 Special Subject: Medical Engineering and Medical Physics
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">, <img width=16 height=16 align="bottom" alt="Summer" title="Summer" src="/icns/summer.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom"><br>Not offered regularly; consult department
+<br>Prereq: Permission of instructor
+<br>Units arranged
+<br><img alt="______" src="/icns/hr.gif">
+<br>Opportunity for group study of advanced subjects related to the Medical Engineering and Medical Physics Program not otherwise included in the curriculum. Offerings are initiated by MEMP faculty on an ad hoc basis subject to program approval. Prerequisites may vary by topic; consult faculty at time of offering.
+<br><I>HST Faculty</I><br>
+</p><!--end-->
+<a name="HST.S76"></a>
+<p><h3>HST.S76 Special Subject: Speech and Hearing Sciences
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">, <img width=16 height=16 align="bottom" alt="Summer" title="Summer" src="/icns/summer.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom"><br>Not offered regularly; consult department
+<br>Prereq: Permission of instructor
+<br>Units arranged [P/D/F]
+<br><img alt="______" src="/icns/hr.gif">
+<br>Opportunity for group study of advanced subjects related to the Speech and Hearing Sciences not otherwise included in the curriculum. Offerings initiated by members of the SHS faculty on an ad hoc basis subject to program approval. Prerequisites may vary by topic; consult faculty at time of offering.
+<br><I>SHBT Faculty</I><br>
+</p><!--end-->
+<a name="HST.S77"></a>
+<p><h3>HST.S77 Special Subject: Speech and Hearing Sciences
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">, <img width=16 height=16 align="bottom" alt="Summer" title="Summer" src="/icns/summer.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom"><br>Not offered regularly; consult department
+<br>Prereq: Permission of instructor
+<br>Units arranged [P/D/F]
+<br><img alt="______" src="/icns/hr.gif">
+<br>Opportunity for group study of advanced subjects related to the Speech and Hearing Sciences not otherwise included in the curriculum. Offerings initiated by members of the SHS faculty on an ad hoc basis subject to program approval. Prerequisites may vary by topic; consult faculty at time of offering.
+<br><I>SHBT Faculty</I><br>
+</p><!--end-->
+<a name="HST.S78"></a>
+<p><h3>HST.S78 Special Subject: Speech and Hearing Sciences
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom">
+<br>Prereq: Permission of instructor
+<br>Units arranged
+<br>URL: <a href="https://hst.mit.edu/academics/course/hst-s78-music-psychology-seminar">https://hst.mit.edu/academics/course/hst-s78-music-psychology-seminar</a>
+<br><b>Lecture:</b> <i>R EVE (7-9 PM)</i> (<a href="http://whereis.mit.edu/map-jpg?mapterms=E25">E25-101</a>)<!--s-->
+<br><img alt="______" src="/icns/hr.gif">
+<br>Opportunity for group study of advanced subjects related to the Speech and Hearing Sciences not otherwise included in the curriculum. Offerings initiated by members of the SHS faculty on an ad hoc basis subject to program approval. Prerequisites may vary by topic; consult faculty at time of offering.
+<br><I>P. Cariani</I><br>No textbook information available
+</p><!--end-->
+<a name="HST.S79"></a>
+<p><h3>HST.S79 Special Subject: Speech and Hearing Sciences
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">, <img width=16 height=16 align="bottom" alt="Summer" title="Summer" src="/icns/summer.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom"><br>Not offered regularly; consult department
+<br>Prereq: Permission of instructor
+<br>Units arranged
+<br><img alt="______" src="/icns/hr.gif">
+<br>Opportunity for group study of advanced subjects related to the Speech and Hearing Sciences not otherwise included in the curriculum. Offerings initiated by members of the SHBT faculty on an ad hoc basis subject to program approval. Prerequisites may vary by topic; consult faculty at time of offering.
+<br><I>SHBT Faculty</I><br>
+</p><!--end-->
+<a name="HST.S96"></a><a name="HST.S97"></a>
+<p><h3>HST.S96-HST.S97 Special Subject: Biomedical Enterprise
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">, <img width=16 height=16 align="bottom" alt="Summer" title="Summer" src="/icns/summer.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom"><br>Not offered regularly; consult department
+<br>Prereq: Permission of instructor
+<br>Units arranged [P/D/F]
+<br><img alt="______" src="/icns/hr.gif">
+<br>
+<a name="HST.S98"></a><a name="HST.S99"></a>
+<h3>HST.S98-HST.S99 Special Subject: Biomedical Enterprise
+<br><img alt="______" src="/icns/hr.gif"></h3>
+<img width=16 height=16 align="bottom" alt="Graduate" title="Graduate" src="/icns/grad.gif">  (<img width=16 height=16 align="bottom" alt="Fall" title="Fall" src="/icns/fall.gif">, <img width=16 height=16 align="bottom" alt="IAP" title="IAP" src="/icns/iap.gif">, <img width=16 height=16 align="bottom" alt="Spring" title="Spring" src="/icns/spring.gif">, <img width=16 height=16 align="bottom" alt="Summer" title="Summer" src="/icns/summer.gif">) <img src="/icns/repeat.gif" alt="Can be repeated for credit" title="Can be repeated for credit" width=16 height=16 align="bottom"><br>Not offered regularly; consult department
+<br>Prereq: Permission of instructor
+<br>Units arranged
+<br><img alt="______" src="/icns/hr.gif">
+<br>Opportunity for group study of advanced subjects relating to biomedical enterprise not otherwise included in the curriculum. Offerings are initiated by HST faculty on an ad hoc basis subject to program approval. Prerequisites may vary by topic. Consult faculty at time of offering.
+<br><I>HST Faculty</I><br>
+</p><!--end-->
+</td></tr></table>
+<hr width="90%" align="center">
+<table align="center"><tr><td valign=middle><img src="/icns/purple1.gif" width="20" height="20" alt="left arrow"></td><td valign=middle><b> | </b></td><td valign=middle align=center><b><a href="mHSTa.html">HST.00-HST.599</a></b></td><td valign=middle><b> | </b></td><td valign=middle align=center><b>HST.600-HST.999 plus UROP and Thesis</b></td><td valign=middle><b> | </b></td><td valign=middle><img src="/icns/purple2.gif" width="20" height="20" alt="right arrow"></td></tr></table>
+<hr width="90%" align="center">
+<br><font size="-1"></table><div id="footer">
+<table width="750" border="0" cellspacing="0" cellpadding="0" align="center">
+ <tr><td align="left" valign="top" height="64">
+     <hr>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" align="left">
+   <tr>
+    <td align="left" valign="top" height="24" width="42"><a href="http://web.mit.edu"><img
+        src="/icns/newmit.gif" width="42" height="24" border="0" align="top" alt="MIT"></a></td>
+    <td width="4" align="left" valign="top">&nbsp;</td>
+    <td align="left" valign="top">
+   <a href="index.cgi">Home</a> 
+ | <a href="http://web.mit.edu/catalog/">Online Bulletin</a><!--arc-->
+ | <a href="http://web.mit.edu/referencepubs/catalog/getacopy.html">Order a Printed Bulletin</a><!--arc-->
+ | <a href="http://web.mit.edu/iap/">IAP</a><!--arc-->
+ | <a href="http://web.mit.edu/catalog/summer/">Summer Session Catalog</a><!--arc-->
+    </td>
+    <td align="right" valign="top">
+      <a href="https://web.mit.edu/is/courseweb/restricted/url-update-request.html">URL              Updates Form</a><br>(certificates required)<!--arc-->
+    </td>
+   </tr>
+  <tr>
+    <td colspan="2">&nbsp;</td>
+    <td colspan="2" align="left" valign="top">For questions about the subject listings, write to 
+<a href="mailto:registrar-www@mit.edu">registrar-www@mit.edu</a>
+    <br><a href="http://web.mit.edu/registrar/">Registrar's Office</a>,
+        Room <a href="http://whereis.mit.edu/map-jpg?mapterms=5-117">5-117</a>,
+        77 Massachusetts Ave, Cambridge, MA 02139-4307
+   <br><i>Copyright &#169; 2013 Massachusetts Institute of Technology</i>
+    </td>
+   </tr>
+  </table>
+ </td></tr>
+</table>
+</div></div></font>
+<br><font size="-1">Produced: 09-MAR-2017 05:10 PM</font>
+</body>
+</html>
